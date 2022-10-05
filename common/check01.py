@@ -1,0 +1,5 @@
+a01.head()
+a02 = a01['INWEST'].describe()
+a01['INWEST'].hist()
+print(a02)
+print('To jest bardzo długi tekst, który pojawi się w przeglądarce')
