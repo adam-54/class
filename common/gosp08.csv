@@ -1,0 +1,1501 @@
+﻿ID_OSOB;ID_GOSP;WOJ;PLEC;WIEK;TYP_RODZ;DOCHM;WYDM;EDU;KMZ
+7;206230411;Zachodniopomorskie;Mezczyzna;59;2:Malzenstwo bez dzieci;5145.31;3810.79;3;2
+23;206231021;Zachodniopomorskie;Mezczyzna;24;9:Pozostale;1960;921.23;3;2
+42;206240411;Zachodniopomorskie;Kobieta;52;2:Malzenstwo bez dzieci;3900;2733.54;5;2
+51;206240721;Zachodniopomorskie;Mezczyzna;78;2:Malzenstwo bez dzieci;1780;1314.89;5;2
+73;206250111;Zachodniopomorskie;Mezczyzna;84;2:Malzenstwo bez dzieci;3914.93;3128.66;1;2
+77;206250211;Zachodniopomorskie;Kobieta;44;4:Malzenstwo +2;2937;2939.97;3;2
+87;206250521;Zachodniopomorskie;Kobieta;38;5:Malzenstwo +3;4490.7;3252.03;4;2
+122;206260611;Zachodniopomorskie;Kobieta;20;4:Malzenstwo +2;5200;3874.09;4;2
+133;206260921;Zachodniopomorskie;Kobieta;30;2:Malzenstwo bez dzieci;4300;3502.96;1;2
+143;206261211;Zachodniopomorskie;Mezczyzna;55;2:Malzenstwo bez dzieci;1479.08;1823.65;3;2
+215;206290611;Zachodniopomorskie;Kobieta;30;2:Malzenstwo bez dzieci;3838;1588.57;1;2
+224;206290911;Zachodniopomorskie;Mezczyzna;78;9:Pozostale;2600;1983;5;2
+240;206291221;Zachodniopomorskie;Mezczyzna;21;7:Matka i dzieci;4266.91;3077.27;4;2
+254;206300811;Zachodniopomorskie;Kobieta;58;1:Osoba samotna;1303.82;2729.57;5;2
+277;206310411;Wielkopolskie;Mezczyzna;45;4:Malzenstwo +2;1942;1833.33;5;1
+280;206310621;Wielkopolskie;Kobieta;76;2:Malzenstwo bez dzieci;1728.66;1849.67;3;1
+291;206310911;Wielkopolskie;Mezczyzna;26;9:Pozostale;3000;1569.1;4;1
+295;206310921;Wielkopolskie;Kobieta;21;6:Malzenstwo +4+;10750;3080.29;4;1
+299;206311211;Wielkopolskie;Kobieta;44;4:Malzenstwo +2;13000;5643.58;3;1
+330;206320911;Wielkopolskie;Kobieta;56;9:Pozostale;8609;4019.6;1;1
+343;206330111;Wielkopolskie;Kobieta;30;9:Pozostale;6220;4565.43;1;1
+349;206330311;Wielkopolskie;Kobieta;22;1:Osoba samotna;260.79;821.64;4;1
+418;206350311;Wielkopolskie;Mezczyzna;64;2:Malzenstwo bez dzieci;4360;3025.7;1;1
+421;206350421;Wielkopolskie;Mezczyzna;41;4:Malzenstwo +2;5800;4874.48;5;1
+441;206350821;Wielkopolskie;Kobieta;72;2:Malzenstwo bez dzieci;1887;1361.83;5;1
+504;206370311;Wielkopolskie;Mezczyzna;20;9:Pozostale;3420;2322.95;6;1
+516;206371011;Wielkopolskie;Kobieta;70;9:Pozostale;4850;4350.63;5;1
+529;206380121;Wielkopolskie;Kobieta;36;9:Pozostale;4021.19;2283.09;1;1
+635;206400711;Wielkopolskie;Mezczyzna;56;2:Malzenstwo bez dzieci;3403.25;4283.56;3;1
+645;206410111;Wielkopolskie;Mezczyzna;26;3:Malzenstwo +1;2020;2520.69;1;1
+647;206410411;Wielkopolskie;Kobieta;72;1:Osoba samotna;1030;908.83;7;1
+651;206410621;Wielkopolskie;Kobieta;56;9:Pozostale;3582.38;2936.8;5;1
+654;206410711;Wielkopolskie;Mezczyzna;34;3:Malzenstwo +1;3520;4832.25;1;1
+681;206420411;Wielkopolskie;Mezczyzna;36;3:Malzenstwo +1;3648;1800.59;5;1
+703;206421021;Wielkopolskie;Mezczyzna;57;1:Osoba samotna;870;890.58;1;1
+723;206430621;Warminsko-mazurskie;Kobieta;41;4:Malzenstwo +2;8277.77;5295.14;1;3
+734;206431221;Warminsko-mazurskie;Kobieta;50;1:Osoba samotna;5152.33;3184.1;1;3
+743;206440711;Warminsko-mazurskie;Kobieta;40;3:Malzenstwo +1;3260;2243.09;4;3
+769;206450511;Warminsko-mazurskie;Mezczyzna;49;4:Malzenstwo +2;5213.33;2723.69;3;3
+808;206460421;Warminsko-mazurskie;Mezczyzna;76;2:Malzenstwo bez dzieci;2168;1405.14;3;3
+832;206461211;Warminsko-mazurskie;Kobieta;50;9:Pozostale;5124.75;4197.73;5;3
+833;206461211;Warminsko-mazurskie;Kobieta;28;9:Pozostale;5124.75;4197.73;5;3
+834;206461221;Warminsko-mazurskie;Mezczyzna;62;1:Osoba samotna;1380;1813.79;4;3
+850;206470411;Swietokrzyskie;Kobieta;70;9:Pozostale;2566.2;2343.57;7;2
+892;206471211;Swietokrzyskie;Mezczyzna;46;6:Malzenstwo +4+;5300;6053.72;3;2
+893;206471211;Swietokrzyskie;Mezczyzna;23;6:Malzenstwo +4+;5300;6053.72;4;2
+917;206480721;Swietokrzyskie;Kobieta;70;2:Malzenstwo bez dzieci;3017;2282.42;5;2
+952;206490621;Swietokrzyskie;Mezczyzna;57;2:Malzenstwo bez dzieci;2346.33;1816.3;5;2
+982;206500311;Swietokrzyskie;Mezczyzna;64;2:Malzenstwo bez dzieci;1900;1360.27;3;2
+987;206500411;Swietokrzyskie;Kobieta;37;9:Pozostale;2400;1195.03;3;2
+1072;206521221;Slaskie;Kobieta;61;9:Pozostale;5693.2;4907.85;5;2
+1082;206530311;Slaskie;Kobieta;55;3:Malzenstwo +1;3680;4089.84;1;2
+1194;206560221;Slaskie;Kobieta;34;3:Malzenstwo +1;2944.57;2117.11;1;2
+1210;206560811;Slaskie;Kobieta;56;1:Osoba samotna;1924;1683.78;5;2
+1226;206570111;Slaskie;Mezczyzna;57;9:Pozostale;3014.4;4827.66;3;2
+1228;206570121;Slaskie;Mezczyzna;59;4:Malzenstwo +2;5160.35;3342.68;1;2
+1234;206570321;Slaskie;Kobieta;34;9:Pozostale;5154.39;2586.84;1;2
+1275;206590221;Pomorskie;Mezczyzna;25;3:Malzenstwo +1;2160;2577.61;1;2
+1347;206610221;Pomorskie;Kobieta;31;3:Malzenstwo +1;9975.69;5941.86;1;2
+1364;206610811;Pomorskie;Mezczyzna;24;9:Pozostale;5400;1171.87;1;2
+1374;206611111;Pomorskie;Kobieta;63;2:Malzenstwo bez dzieci;2314;1972.89;5;2
+1375;206611111;Pomorskie;Mezczyzna;58;2:Malzenstwo bez dzieci;2314;1972.89;5;2
+1384;206620121;Pomorskie;Mezczyzna;66;9:Pozostale;2917.49;2502.94;1;2
+1411;206621221;Pomorskie;Kobieta;63;1:Osoba samotna;2591.12;2545.9;1;2
+1428;206630611;Pomorskie;Kobieta;41;9:Pozostale;2921;2934.16;3;2
+1456;206640511;Pomorskie;Kobieta;28;3:Malzenstwo +1;4256;2724.23;1;2
+1467;206640911;Pomorskie;Kobieta;70;1:Osoba samotna;1990;1050.85;1;2
+1490;206650511;Pomorskie;Mezczyzna;22;9:Pozostale;4480;4484.21;4;2
+1492;206650521;Pomorskie;Mezczyzna;53;9:Pozostale;9076.68;8359.77;1;2
+1497;206650711;Pomorskie;Mezczyzna;51;9:Pozostale;4200;3786.85;5;2
+1498;206650711;Pomorskie;Kobieta;21;9:Pozostale;4200;3786.85;4;2
+1508;206650921;Pomorskie;Kobieta;23;9:Pozostale;5410;3077.4;2;2
+1509;206650921;Pomorskie;Kobieta;86;9:Pozostale;5410;3077.4;7;2
+1510;206651011;Pomorskie;Kobieta;86;1:Osoba samotna;1100.35;1154.98;7;2
+1533;206660611;Pomorskie;Mezczyzna;29;2:Malzenstwo bez dzieci;4600;1338.1;1;2
+1540;206660911;Pomorskie;Mezczyzna;26;1:Osoba samotna;1300;1033.16;3;2
+1542;206660921;Pomorskie;Mezczyzna;32;3:Malzenstwo +1;3200;1196.44;1;2
+1563;206670421;Pomorskie;Kobieta;66;2:Malzenstwo bez dzieci;2574;1176.27;3;2
+1574;206670721;Pomorskie;Mezczyzna;52;2:Malzenstwo bez dzieci;3150;3956.65;3;2
+1579;206670821;Pomorskie;Mezczyzna;56;2:Malzenstwo bez dzieci;3938;981.96;3;2
+1596;206680211;Podlaskie;Kobieta;31;1:Osoba samotna;1120;1268.12;4;2
+1597;206680221;Podlaskie;Mezczyzna;45;4:Malzenstwo +2;2541.5;4276.15;3;2
+1601;206680411;Podlaskie;Kobieta;29;3:Malzenstwo +1;1904.8;1569.08;1;2
+1619;206680821;Podlaskie;Mezczyzna;27;3:Malzenstwo +1;2409.08;2772.14;1;2
+1620;206680821;Podlaskie;Kobieta;25;3:Malzenstwo +1;2409.08;2772.14;1;2
+1654;206690821;Podlaskie;Mezczyzna;48;5:Malzenstwo +3;4500;2816.36;4;2
+1681;206700521;Podlaskie;Mezczyzna;63;2:Malzenstwo bez dzieci;1560;1301.61;5;2
+1726;206710621;Podlaskie;Mezczyzna;50;4:Malzenstwo +2;3182;2303.57;5;2
+1754;206720411;Podlaskie;Mezczyzna;36;3:Malzenstwo +1;2139.09;7115.99;3;2
+1759;206720711;Podlaskie;Kobieta;56;9:Pozostale;1934;1654.33;7;2
+1765;206720821;Podlaskie;Mezczyzna;26;9:Pozostale;3432.5;4191.22;1;2
+1780;206730121;Podlaskie;Kobieta;27;9:Pozostale;2800;2185.43;4;2
+1791;206730511;Podlaskie;Kobieta;76;1:Osoba samotna;1554.48;1448.28;3;2
+1802;206731011;Podlaskie;Mezczyzna;80;9:Pozostale;3968.47;3271.66;3;2
+1827;206740621;Podkarpackie;Mezczyzna;58;9:Pozostale;3562;3030.77;5;3
+1828;206740621;Podkarpackie;Kobieta;58;9:Pozostale;3562;3030.77;7;3
+1844;206741221;Podkarpackie;Kobieta;51;2:Malzenstwo bez dzieci;2409.5;2589.98;3;3
+1845;206750111;Podkarpackie;Mezczyzna;52;3:Malzenstwo +1;1812;1497.84;5;3
+1850;206750221;Podkarpackie;Kobieta;67;2:Malzenstwo bez dzieci;1570.34;1294.06;7;3
+1881;206751211;Podkarpackie;Kobieta;23;9:Pozostale;1634;4128.77;5;3
+1926;206770211;Opolskie;Kobieta;51;2:Malzenstwo bez dzieci;3471.6;2876.34;3;3
+1943;206780121;Opolskie;Kobieta;55;9:Pozostale;2930;2935.32;1;3
+1951;206780321;Opolskie;Mezczyzna;59;2:Malzenstwo bez dzieci;4652.42;4718.15;1;3
+1953;206780411;Opolskie;Kobieta;44;4:Malzenstwo +2;3032;1617.65;1;3
+1957;206780421;Opolskie;Mezczyzna;46;3:Malzenstwo +1;3176.85;3162.78;3;3
+1962;206780611;Opolskie;Mezczyzna;60;2:Malzenstwo bez dzieci;3800.5;2424.3;5;3
+2009;206791211;Opolskie;Mezczyzna;75;9:Pozostale;3917.98;3880.75;1;3
+2014;206800421;Opolskie;Kobieta;79;9:Pozostale;3070;4155.91;4;3
+2019;206800621;Opolskie;Mezczyzna;31;3:Malzenstwo +1;6926;7021.09;1;3
+2051;206810611;Mazowieckie;Mezczyzna;56;9:Pozostale;8169;2085.41;1;1
+2064;206810911;Mazowieckie;Kobieta;23;9:Pozostale;3870.82;4021.94;4;1
+2073;206811121;Mazowieckie;Mezczyzna;62;2:Malzenstwo bez dzieci;5838.78;3080.36;3;1
+2077;206820111;Mazowieckie;Mezczyzna;31;2:Malzenstwo bez dzieci;7040;10815.24;3;1
+2145;206831222;Mazowieckie;Kobieta;41;4:Malzenstwo +2;12100.45;11009.95;1;1
+2149;206840121;Mazowieckie;Mezczyzna;27;9:Pozostale;9977.17;5452.94;1;1
+2156;206840611;Mazowieckie;Kobieta;31;1:Osoba samotna;6740;2684.72;1;1
+2170;206850111;Mazowieckie;Mezczyzna;34;4:Malzenstwo +2;4340;2761.46;1;1
+2188;206850711;Mazowieckie;Kobieta;54;9:Pozostale;4300;2642.06;4;1
+2202;206851121;Mazowieckie;Kobieta;26;9:Pozostale;6159.34;3191.91;1;1
+2207;206860221;Mazowieckie;Kobieta;52;9:Pozostale;2000;2880.08;3;1
+2251;206870511;Mazowieckie;Kobieta;61;3:Malzenstwo +1;3010.5;3066.11;1;1
+2257;206870711;Mazowieckie;Mezczyzna;57;2:Malzenstwo bez dzieci;3563.16;2559.57;5;1
+2262;206870911;Mazowieckie;Kobieta;73;9:Pozostale;2379.52;2416.72;4;1
+2277;206871211;Mazowieckie;Kobieta;21;9:Pozostale;3210.07;2216.03;4;1
+2316;206890211;Mazowieckie;Mezczyzna;20;1:Osoba samotna;1423.65;949.68;4;1
+2322;206890711;Mazowieckie;Mezczyzna;30;9:Pozostale;4647;2533.4;7;1
+2333;206891121;Mazowieckie;Kobieta;31;9:Pozostale;5247.98;3678.85;4;1
+2420;206920421;Mazowieckie;Mezczyzna;52;2:Malzenstwo bez dzieci;2205.46;1345.9;5;1
+2438;206921211;Mazowieckie;Mezczyzna;28;1:Osoba samotna;7000;6856.09;1;1
+2443;206930511;Mazowieckie;Kobieta;48;1:Osoba samotna;5462.27;3466.42;2;1
+2466;206940111;Mazowieckie;Kobieta;29;9:Pozostale;7290;2532.01;1;1
+2528;206950911;Mazowieckie;Mezczyzna;47;4:Malzenstwo +2;2738.82;2176.36;3;1
+2554;206960711;Mazowieckie;Kobieta;36;3:Malzenstwo +1;7739.82;4890.32;2;1
+2635;206981021;Mazowieckie;Kobieta;56;2:Malzenstwo bez dzieci;5767.97;5471.96;1;1
+2657;206990621;Mazowieckie;Kobieta;24;9:Pozostale;17431.34;24080.69;4;1
+2688;207000711;Mazowieckie;Kobieta;26;1:Osoba samotna;2956.33;2453.64;1;1
+2696;207001221;Mazowieckie;Mezczyzna;73;2:Malzenstwo bez dzieci;3239.71;3139.57;1;1
+2707;207010612;Mazowieckie;Kobieta;46;3:Malzenstwo +1;5539;2582.71;4;1
+2725;207020211;Mazowieckie;Kobieta;50;2:Malzenstwo bez dzieci;826.07;1697.34;5;1
+2805;207040721;Mazowieckie;Kobieta;31;9:Pozostale;6088.6;6389.43;5;1
+2811;207040821;Mazowieckie;Mezczyzna;55;2:Malzenstwo bez dzieci;1973.94;1904.88;3;1
+2812;207040911;Mazowieckie;Mezczyzna;57;2:Malzenstwo bez dzieci;2157.38;2083.48;3;1
+2816;207041021;Mazowieckie;Kobieta;41;9:Pozostale;3578;2656.48;5;1
+2844;207050811;Mazowieckie;Kobieta;65;2:Malzenstwo bez dzieci;1285.6;3515.58;7;1
+2885;207060911;Mazowieckie;Kobieta;32;7:Matka i dzieci;1043.33;2837.37;4;1
+2915;207070621;Mazowieckie;Kobieta;52;9:Pozostale;3340;2575.08;5;1
+2919;207070721;Mazowieckie;Kobieta;55;9:Pozostale;1778.34;1869.8;7;1
+2927;207071011;Mazowieckie;Kobieta;80;1:Osoba samotna;3117;2101.77;3;1
+2946;207081011;Mazowieckie;Mezczyzna;34;2:Malzenstwo bez dzieci;5736.33;4455.92;5;1
+2973;207090911;Mazowieckie;Mezczyzna;48;9:Pozostale;10245;7177.72;2;1
+2977;207090921;Mazowieckie;Kobieta;30;3:Malzenstwo +1;10045.76;9652.39;1;1
+2986;207091221;Mazowieckie;Kobieta;32;3:Malzenstwo +1;8003.5;6211.92;1;1
+2992;207100611;Mazowieckie;Kobieta;56;9:Pozostale;9409.9;4483.23;1;1
+2993;207100611;Mazowieckie;Mezczyzna;26;9:Pozostale;9409.9;4483.23;1;1
+3036;207111021;Mazowieckie;Kobieta;58;2:Malzenstwo bez dzieci;3195.79;2244.85;1;1
+3084;207130621;Mazowieckie;Mezczyzna;33;4:Malzenstwo +2;3574;2239.57;7;1
+3086;207130721;Mazowieckie;Kobieta;44;2:Malzenstwo bez dzieci;1364.2;4009.84;5;1
+3099;207140111;Mazowieckie;Mezczyzna;25;2:Malzenstwo bez dzieci;6376.21;4720.02;4;1
+3103;207140221;Mazowieckie;Kobieta;34;9:Pozostale;6830.67;5402.31;1;1
+3142;207150221;Mazowieckie;Mezczyzna;50;9:Pozostale;6496.16;6192.66;3;1
+3143;207150221;Mazowieckie;Kobieta;42;9:Pozostale;6496.16;6192.66;2;1
+3144;207150311;Mazowieckie;Kobieta;54;1:Osoba samotna;1790;1578.34;5;1
+3145;207150321;Mazowieckie;Kobieta;23;1:Osoba samotna;1912;2997.46;4;1
+3147;207150421;Mazowieckie;Kobieta;26;1:Osoba samotna;2666;3040.63;4;1
+3195;207160721;Mazowieckie;Mezczyzna;53;9:Pozostale;5237.91;4468.11;3;1
+3200;207160911;Mazowieckie;Mezczyzna;34;4:Malzenstwo +2;1450;3458.33;5;1
+3232;207170911;Mazowieckie;Kobieta;58;9:Pozostale;4180;3543.52;2;1
+3254;207180611;Mazowieckie;Kobieta;41;4:Malzenstwo +2;7460;2404.88;3;1
+3278;207190111;Mazowieckie;Mezczyzna;26;9:Pozostale;4088.7;3693.5;3;1
+3284;207190411;Mazowieckie;Kobieta;44;9:Pozostale;5366.7;3520.93;1;1
+3302;207190721;Mazowieckie;Kobieta;37;3:Malzenstwo +1;4046;2345.89;1;1
+3333;207200821;Malopolskie;Kobieta;44;4:Malzenstwo +2;4385.6;4429.62;1;1
+3344;207210211;Malopolskie;Mezczyzna;35;1:Osoba samotna;3492.5;1730.61;1;1
+3366;207210721;Malopolskie;Kobieta;41;3:Malzenstwo +1;4060;3540.61;5;1
+3385;207220111;Malopolskie;Kobieta;52;3:Malzenstwo +1;3130;2343.8;1;1
+3399;207220411;Malopolskie;Mezczyzna;22;4:Malzenstwo +2;12978;5249.49;1;1
+3400;207220421;Malopolskie;Kobieta;25;1:Osoba samotna;1904.08;1678.55;4;1
+3406;207220611;Malopolskie;Mezczyzna;59;2:Malzenstwo bez dzieci;4700;2502.31;1;1
+3410;207220711;Malopolskie;Mezczyzna;70;9:Pozostale;4451.5;4457.79;5;1
+3418;207220921;Malopolskie;Kobieta;51;9:Pozostale;8900;2773.05;1;1
+3423;207221021;Malopolskie;Kobieta;37;1:Osoba samotna;2300;1726.17;1;1
+3425;207221111;Malopolskie;Kobieta;38;5:Malzenstwo +3;8030;5950.25;1;1
+3446;207230511;Malopolskie;Mezczyzna;21;9:Pozostale;5631.8;2475.34;4;1
+3472;207240421;Malopolskie;Mezczyzna;27;3:Malzenstwo +1;3220;3575.48;3;1
+3473;207240421;Malopolskie;Kobieta;24;3:Malzenstwo +1;3220;3575.48;2;1
+3482;207240711;Malopolskie;Kobieta;43;4:Malzenstwo +2;6000;8124.71;3;1
+3489;207240921;Malopolskie;Kobieta;24;1:Osoba samotna;1910;2825.36;4;1
+3531;207260321;Malopolskie;Kobieta;25;9:Pozostale;6857.55;4985.93;1;1
+3542;207260811;Malopolskie;Kobieta;51;3:Malzenstwo +1;2850;2242.9;5;1
+3549;207260821;Malopolskie;Mezczyzna;25;9:Pozostale;5406;3361.35;1;1
+3573;207270421;Malopolskie;Kobieta;69;2:Malzenstwo bez dzieci;1960;1449.3;7;1
+3602;207280221;Malopolskie;Mezczyzna;35;3:Malzenstwo +1;3500;1864.66;3;1
+3627;207281021;Malopolskie;Kobieta;52;2:Malzenstwo bez dzieci;2029.2;2471.46;7;1
+3643;207290311;Malopolskie;Kobieta;24;2:Malzenstwo bez dzieci;2999.69;1879.34;4;1
+3649;207290911;Malopolskie;Kobieta;32;2:Malzenstwo bez dzieci;6000;2483.72;1;1
+3653;207291121;Malopolskie;Kobieta;44;7:Matka i dzieci;3000;2434.66;2;1
+3664;207300411;Malopolskie;Mezczyzna;23;2:Malzenstwo bez dzieci;2621.69;4231.48;4;1
+3727;207320421;Malopolskie;Kobieta;22;9:Pozostale;4200;2751.42;3;1
+3745;207320821;Malopolskie;Kobieta;52;9:Pozostale;6900;2164.54;1;1
+3767;207330221;Malopolskie;Mezczyzna;60;9:Pozostale;11117.3;18022.76;1;1
+3775;207330611;Malopolskie;Kobieta;30;2:Malzenstwo bez dzieci;1405.13;3369.31;1;1
+3780;207330711;Malopolskie;Kobieta;22;4:Malzenstwo +2;3834.04;5106.77;4;1
+3806;207340311;Malopolskie;Kobieta;24;3:Malzenstwo +1;22032.3;9631.72;1;1
+3823;207340921;Malopolskie;Mezczyzna;26;9:Pozostale;5500;6772.33;1;1
+3824;207340921;Malopolskie;Kobieta;24;9:Pozostale;5500;6772.33;4;1
+3831;207341211;Malopolskie;Mezczyzna;61;2:Malzenstwo bez dzieci;3396.44;2562.45;3;1
+3886;207360511;Lodzkie;Kobieta;28;1:Osoba samotna;1769.5;1585.81;1;1
+3890;207360721;Lodzkie;Kobieta;32;4:Malzenstwo +2;3037.33;3540.05;3;1
+3912;207370421;Lodzkie;Mezczyzna;54;4:Malzenstwo +2;2866.2;2322.38;3;1
+3950;207390221;Lodzkie;Kobieta;77;9:Pozostale;3417;1090.14;7;1
+4036;207420111;Lodzkie;Kobieta;60;1:Osoba samotna;1327.6;1329.23;3;1
+4089;207430611;Lodzkie;Kobieta;84;9:Pozostale;2861.15;2010.45;7;1
+4091;207430621;Lodzkie;Mezczyzna;50;2:Malzenstwo bez dzieci;3350.3;2844.54;3;1
+4114;207440221;Lodzkie;Kobieta;43;4:Malzenstwo +2;3266;2496.7;4;1
+4130;207440721;Lodzkie;Kobieta;58;3:Malzenstwo +1;1959.15;7290.22;7;1
+4157;207450221;Lodzkie;Kobieta;40;4:Malzenstwo +2;2240.4;1902.63;5;1
+4177;207450811;Lodzkie;Mezczyzna;40;4:Malzenstwo +2;2663.2;2866.95;3;1
+4212;207460611;Lodzkie;Kobieta;36;4:Malzenstwo +2;5898.4;3208.63;1;1
+4217;207460911;Lodzkie;Kobieta;60;9:Pozostale;3028.2;1968.8;7;1
+4225;207461111;Lodzkie;Kobieta;20;9:Pozostale;3041.22;3338.13;4;1
+4237;207470321;Lodzkie;Kobieta;26;9:Pozostale;5200;2133.7;5;1
+4273;207480521;Lodzkie;Mezczyzna;59;9:Pozostale;4685.65;3874;3;1
+4355;207501211;Lodzkie;Mezczyzna;43;4:Malzenstwo +2;6138.2;4063.53;3;1
+4384;207511011;Lodzkie;Mezczyzna;55;9:Pozostale;5230;4951.24;5;1
+4387;207511011;Lodzkie;Mezczyzna;32;9:Pozostale;5230;4951.24;1;1
+4403;207520311;Lodzkie;Kobieta;64;2:Malzenstwo bez dzieci;4496.3;3025.95;1;1
+4414;207521011;Lodzkie;Kobieta;57;9:Pozostale;1952.63;1277.16;1;1
+4415;207521011;Lodzkie;Kobieta;83;9:Pozostale;1952.63;1277.16;7;1
+4419;207521111;Lodzkie;Kobieta;62;2:Malzenstwo bez dzieci;2786.5;2913.75;4;1
+4434;207530321;Lodzkie;Kobieta;54;9:Pozostale;7092.2;4062.46;4;1
+4439;207530421;Lodzkie;Kobieta;20;3:Malzenstwo +1;3644;2559.24;4;1
+4462;207540111;Lubuskie;Kobieta;62;2:Malzenstwo bez dzieci;2077.52;2164.45;3;3
+4479;207540611;Lubuskie;Kobieta;48;9:Pozostale;1748.56;1481.34;5;3
+4483;207540711;Lubuskie;Kobieta;58;2:Malzenstwo bez dzieci;971.07;714.69;7;3
+4490;207541011;Lubuskie;Kobieta;43;9:Pozostale;1480;1585.94;3;3
+4538;207560221;Lubuskie;Mezczyzna;60;2:Malzenstwo bez dzieci;3104;2186.85;3;3
+4552;207560911;Lubuskie;Mezczyzna;55;9:Pozostale;1986;1076.79;5;3
+4568;207570311;Lubelskie;Mezczyzna;50;9:Pozostale;2434.83;1339.57;3;2
+4653;207591221;Lubelskie;Kobieta;59;2:Malzenstwo bez dzieci;5936.78;4125.96;1;2
+4669;207600621;Lubelskie;Mezczyzna;28;3:Malzenstwo +1;2092.9;1421.42;3;2
+4700;207610311;Lubelskie;Kobieta;20;7:Matka i dzieci;1252.68;1489.83;6;2
+4732;207611221;Lubelskie;Mezczyzna;31;9:Pozostale;10532;4685.53;3;2
+4740;207620211;Lubelskie;Kobieta;50;9:Pozostale;2826.88;1389.84;3;2
+4748;207620511;Lubelskie;Mezczyzna;25;9:Pozostale;1901.7;2507.65;4;2
+4766;207621111;Lubelskie;Kobieta;57;1:Osoba samotna;1440.63;675.08;5;2
+4767;207621121;Lubelskie;Kobieta;24;2:Malzenstwo bez dzieci;4529;10549.89;1;2
+4782;207630421;Lubelskie;Kobieta;21;9:Pozostale;2970.6;1234.21;4;2
+4813;207640311;Kujawsko-pomorskie;Kobieta;52;3:Malzenstwo +1;2417.6;2205.14;1;2
+4818;207640411;Kujawsko-pomorskie;Kobieta;55;9:Pozostale;4920;2458.43;5;2
+4824;207640511;Kujawsko-pomorskie;Mezczyzna;32;4:Malzenstwo +2;4374.2;4402.19;5;2
+4826;207640521;Kujawsko-pomorskie;Kobieta;68;9:Pozostale;3796.23;3870.01;7;2
+4831;207640821;Kujawsko-pomorskie;Mezczyzna;61;2:Malzenstwo bez dzieci;1550;4868.12;7;2
+4860;207650611;Kujawsko-pomorskie;Kobieta;78;9:Pozostale;2148.3;2451.55;7;2
+4883;207660321;Kujawsko-pomorskie;Kobieta;76;2:Malzenstwo bez dzieci;2000.28;1130.18;5;2
+4895;207661111;Kujawsko-pomorskie;Kobieta;37;6:Malzenstwo +4+;3430.83;2997.23;5;2
+4915;207670621;Kujawsko-pomorskie;Mezczyzna;51;9:Pozostale;6665;4777.58;3;2
+4925;207671111;Kujawsko-pomorskie;Kobieta;56;9:Pozostale;2487.25;2174;7;2
+4958;207680821;Kujawsko-pomorskie;Kobieta;43;3:Malzenstwo +1;6929.44;6381.54;1;2
+5071;207720411;Dolnoslaskie;Mezczyzna;24;2:Malzenstwo bez dzieci;3231;1492.02;4;1
+5079;207721011;Dolnoslaskie;Mezczyzna;46;3:Malzenstwo +1;5744.38;4398.81;1;1
+5098;207730621;Dolnoslaskie;Kobieta;53;9:Pozostale;4596.5;4521.84;4;1
+5115;207740211;Dolnoslaskie;Mezczyzna;36;9:Pozostale;5452;4730.15;5;1
+5143;207750211;Dolnoslaskie;Kobieta;71;2:Malzenstwo bez dzieci;2559.26;1423.41;1;1
+5185;207761111;Dolnoslaskie;Kobieta;23;5:Malzenstwo +3;4237.67;3782.24;4;1
+5222;207771221;Dolnoslaskie;Mezczyzna;32;3:Malzenstwo +1;3790.24;3882.69;1;1
+5223;207771221;Dolnoslaskie;Kobieta;33;3:Malzenstwo +1;3790.24;3882.69;1;1
+5253;207781011;Dolnoslaskie;Mezczyzna;37;3:Malzenstwo +1;1821.01;1672.5;5;1
+5301;207801211;Dolnoslaskie;Kobieta;73;1:Osoba samotna;981.91;994.88;1;1
+5302;207801221;Dolnoslaskie;Mezczyzna;76;9:Pozostale;2353.6;1464.98;3;1
+5345;207820311;Dolnoslaskie;Mezczyzna;48;3:Malzenstwo +1;3560;4172.76;3;1
+5350;207820511;Dolnoslaskie;Kobieta;32;4:Malzenstwo +2;3402;3498.3;3;1
+5371;207830121;Dolnoslaskie;Kobieta;50;4:Malzenstwo +2;2053.7;2895.29;3;1
+5372;207830121;Dolnoslaskie;Kobieta;21;4:Malzenstwo +2;2053.7;2895.29;4;1
+5426;213280121;Zachodniopomorskie;Mezczyzna;47;3:Malzenstwo +1;2358.52;1927.03;4;3
+5457;213280921;Zachodniopomorskie;Kobieta;59;2:Malzenstwo bez dzieci;3185;2187.16;1;3
+5489;213290711;Zachodniopomorskie;Kobieta;35;9:Pozostale;5195.15;4982.84;5;4
+5508;213300111;Zachodniopomorskie;Mezczyzna;22;9:Pozostale;3586.04;3232.94;4;4
+5521;213300421;Zachodniopomorskie;Mezczyzna;56;2:Malzenstwo bez dzieci;1833;1587.07;5;4
+5522;213300511;Zachodniopomorskie;Kobieta;57;1:Osoba samotna;1403.75;1376.08;3;4
+5580;213310921;Zachodniopomorskie;Kobieta;54;1:Osoba samotna;1827.5;1614.5;4;4
+5592;213320111;Zachodniopomorskie;Kobieta;31;9:Pozostale;9610;5609.55;1;4
+5602;213320511;Zachodniopomorskie;Mezczyzna;27;3:Malzenstwo +1;3790;2486.58;5;4
+5608;213320621;Zachodniopomorskie;Mezczyzna;87;9:Pozostale;13844.5;2864.8;4;4
+5611;213320721;Zachodniopomorskie;Kobieta;50;2:Malzenstwo bez dzieci;4174;1445.89;7;4
+5669;213331111;Zachodniopomorskie;Kobieta;47;3:Malzenstwo +1;3906.02;3830.78;2;4
+5675;213340121;Zachodniopomorskie;Kobieta;56;2:Malzenstwo bez dzieci;2140;844.18;5;4
+5716;213350221;Zachodniopomorskie;Mezczyzna;57;9:Pozostale;3598;2453.59;5;5
+5731;213350621;Zachodniopomorskie;Kobieta;58;2:Malzenstwo bez dzieci;2804.46;2140.51;1;5
+5769;213360721;Zachodniopomorskie;Mezczyzna;48;2:Malzenstwo bez dzieci;4292.43;3206.73;3;5
+5778;213360921;Zachodniopomorskie;Kobieta;38;4:Malzenstwo +2;4250;2969.36;1;5
+5781;213361021;Zachodniopomorskie;Kobieta;68;1:Osoba samotna;997.37;994.82;3;5
+5799;213370711;Zachodniopomorskie;Kobieta;50;9:Pozostale;2318.17;1703.9;5;5
+5800;213370711;Zachodniopomorskie;Mezczyzna;58;9:Pozostale;2318.17;1703.9;7;5
+5812;213371011;Zachodniopomorskie;Kobieta;32;4:Malzenstwo +2;2900;2611.51;3;5
+5831;213380411;Zachodniopomorskie;Kobieta;67;9:Pozostale;3736.88;1908.75;7;5
+5833;213380421;Zachodniopomorskie;Mezczyzna;43;5:Malzenstwo +3;5100;2429.89;3;5
+5839;213380611;Zachodniopomorskie;Kobieta;36;9:Pozostale;4509;2490.59;2;5
+5844;213380711;Zachodniopomorskie;Kobieta;58;9:Pozostale;3210;2371.06;7;5
+5903;213391011;Zachodniopomorskie;Kobieta;54;2:Malzenstwo bez dzieci;1089.6;1077.87;3;5
+5956;213410121;Wielkopolskie;Kobieta;57;9:Pozostale;1330;1229.9;7;3
+5959;213410211;Wielkopolskie;Kobieta;35;9:Pozostale;1910.63;2362.2;3;3
+5987;213411011;Wielkopolskie;Mezczyzna;76;9:Pozostale;4006.08;2928.84;3;3
+5999;213420121;Wielkopolskie;Mezczyzna;42;3:Malzenstwo +1;2200;1957.46;5;3
+6018;213420711;Wielkopolskie;Kobieta;69;2:Malzenstwo bez dzieci;1750;1813.56;4;3
+6040;213430111;Wielkopolskie;Kobieta;42;5:Malzenstwo +3;2700;1974.97;5;4
+6064;213430721;Wielkopolskie;Mezczyzna;38;3:Malzenstwo +1;1628.8;1205;5;4
+6143;213450121;Wielkopolskie;Kobieta;52;9:Pozostale;4342;3151.81;5;4
+6150;213450221;Wielkopolskie;Mezczyzna;54;2:Malzenstwo bez dzieci;2398;1329.13;4;4
+6158;213450321;Wielkopolskie;Mezczyzna;21;9:Pozostale;3571;1641.86;4;4
+6167;213450521;Wielkopolskie;Kobieta;59;2:Malzenstwo bez dzieci;1984.57;1229.21;7;4
+6168;213450611;Wielkopolskie;Kobieta;68;1:Osoba samotna;1214.87;906.3;7;4
+6179;213450911;Wielkopolskie;Kobieta;25;9:Pozostale;3088;1648.26;2;4
+6202;213460311;Wielkopolskie;Kobieta;35;3:Malzenstwo +1;4222.8;2730.77;1;4
+6310;213490321;Wielkopolskie;Kobieta;60;2:Malzenstwo bez dzieci;1926.8;1915.32;3;4
+6319;213490711;Wielkopolskie;Mezczyzna;71;2:Malzenstwo bez dzieci;3037.53;2406.91;3;4
+6326;213490821;Wielkopolskie;Kobieta;62;2:Malzenstwo bez dzieci;3865;3758.66;7;4
+6364;213501211;Wielkopolskie;Mezczyzna;54;3:Malzenstwo +1;1616.57;1797.29;7;5
+6383;213510411;Wielkopolskie;Mezczyzna;22;9:Pozostale;4379.19;2411.13;3;4
+6416;213520221;Wielkopolskie;Mezczyzna;57;1:Osoba samotna;731;742.51;5;4
+6459;213530521;Wielkopolskie;Mezczyzna;44;9:Pozostale;6659.9;3102.26;3;4
+6520;213540911;Wielkopolskie;Mezczyzna;47;3:Malzenstwo +1;3181.6;5444.37;5;4
+6528;213541111;Wielkopolskie;Mezczyzna;51;2:Malzenstwo bez dzieci;4307;7627.32;5;4
+6529;213541211;Wielkopolskie;Mezczyzna;58;3:Malzenstwo +1;4431.17;4442.99;3;4
+6542;213550221;Wielkopolskie;Mezczyzna;44;9:Pozostale;6496;3034.19;4;4
+6564;213551011;Wielkopolskie;Kobieta;29;9:Pozostale;8360;6462.22;1;4
+6614;213561011;Wielkopolskie;Mezczyzna;53;9:Pozostale;4322;2875.32;5;5
+6621;213561121;Wielkopolskie;Mezczyzna;35;4:Malzenstwo +2;1892;2180.28;5;5
+6623;213561211;Wielkopolskie;Kobieta;58;2:Malzenstwo bez dzieci;2010.2;1765.19;7;5
+6632;213570321;Wielkopolskie;Mezczyzna;47;3:Malzenstwo +1;4000;3907.14;1;5
+6635;213570411;Wielkopolskie;Mezczyzna;55;3:Malzenstwo +1;3430;2963.25;3;5
+6638;213570621;Wielkopolskie;Kobieta;67;9:Pozostale;2350;1143.28;4;5
+6676;213580621;Wielkopolskie;Kobieta;43;3:Malzenstwo +1;4132;2819.55;1;5
+6695;213581111;Wielkopolskie;Mezczyzna;65;2:Malzenstwo bez dzieci;2022.42;4069.23;7;5
+6715;213590411;Wielkopolskie;Kobieta;55;9:Pozostale;3407;2343.96;3;5
+6748;213591121;Wielkopolskie;Kobieta;27;9:Pozostale;2290;1425.94;1;5
+6787;213601011;Wielkopolskie;Kobieta;72;1:Osoba samotna;802;1227.5;7;5
+6795;213601211;Wielkopolskie;Kobieta;50;2:Malzenstwo bez dzieci;6108;3866.71;3;5
+6908;213630221;Wielkopolskie;Kobieta;47;3:Malzenstwo +1;3724;2201.57;5;5
+6921;213630521;Wielkopolskie;Kobieta;53;3:Malzenstwo +1;1006;805.98;7;5
+6930;213630811;Wielkopolskie;Kobieta;71;2:Malzenstwo bez dzieci;1450;982.06;7;5
+6937;213631021;Wielkopolskie;Mezczyzna;74;2:Malzenstwo bez dzieci;1434;828.51;5;5
+6939;213631211;Wielkopolskie;Kobieta;46;4:Malzenstwo +2;5133.1;3887.81;1;5
+6963;213640611;Wielkopolskie;Kobieta;67;9:Pozostale;5184.38;1848.27;5;5
+7013;213650821;Warminsko-mazurskie;Kobieta;34;3:Malzenstwo +1;6546;2437.97;1;3
+7017;213650921;Warminsko-mazurskie;Mezczyzna;41;5:Malzenstwo +3;5027.5;3809.13;5;3
+7022;213651021;Warminsko-mazurskie;Mezczyzna;57;2:Malzenstwo bez dzieci;2027.6;2509.75;5;3
+7039;213660321;Warminsko-mazurskie;Mezczyzna;49;9:Pozostale;2689;2034.2;5;3
+7057;213661011;Warminsko-mazurskie;Kobieta;55;9:Pozostale;2726.18;2541.8;4;3
+7073;213670321;Warminsko-mazurskie;Kobieta;31;4:Malzenstwo +2;3800;2853.91;1;4
+7120;213680321;Warminsko-mazurskie;Kobieta;21;9:Pozostale;4420.31;4222.3;3;4
+7143;213681221;Warminsko-mazurskie;Mezczyzna;55;9:Pozostale;2033.38;2175.14;3;4
+7150;213690121;Warminsko-mazurskie;Mezczyzna;47;2:Malzenstwo bez dzieci;2400;1846.88;2;4
+7162;213690621;Warminsko-mazurskie;Kobieta;72;2:Malzenstwo bez dzieci;2531;1833.24;3;4
+7235;213710421;Warminsko-mazurskie;Mezczyzna;70;2:Malzenstwo bez dzieci;1889;1621.34;3;4
+7242;213710711;Warminsko-mazurskie;Mezczyzna;46;9:Pozostale;1954.99;1285.3;5;4
+7284;213721011;Warminsko-mazurskie;Mezczyzna;47;3:Malzenstwo +1;3172.6;3544.93;3;5
+7285;213721011;Warminsko-mazurskie;Kobieta;52;3:Malzenstwo +1;3172.6;3544.93;3;5
+7299;213730121;Warminsko-mazurskie;Mezczyzna;58;9:Pozostale;2121.7;2035.62;7;5
+7312;213730421;Warminsko-mazurskie;Kobieta;49;3:Malzenstwo +1;1634.62;2591.73;3;5
+7344;213731222;Warminsko-mazurskie;Kobieta;23;2:Malzenstwo bez dzieci;2841.57;3213.94;2;5
+7371;213750221;Warminsko-mazurskie;Kobieta;49;1:Osoba samotna;856;680.74;7;5
+7398;213760121;Warminsko-mazurskie;Kobieta;35;7:Matka i dzieci;1464;1497;3;5
+7437;213761121;Warminsko-mazurskie;Kobieta;44;9:Pozostale;2998;3686.65;5;5
+7447;213770111;Swietokrzyskie;Kobieta;61;9:Pozostale;1670;1304.75;3;5
+7514;213780921;Swietokrzyskie;Kobieta;61;2:Malzenstwo bez dzieci;3797;2663.65;3;5
+7592;213800821;Swietokrzyskie;Mezczyzna;50;3:Malzenstwo +1;1723;2207.18;7;5
+7602;213801111;Swietokrzyskie;Kobieta;55;9:Pozostale;17419;8180.49;1;5
+7615;213810221;Swietokrzyskie;Kobieta;42;4:Malzenstwo +2;2205.07;1865.28;3;5
+7619;213810511;Swietokrzyskie;Kobieta;70;1:Osoba samotna;1231.52;894.64;5;5
+7626;213810721;Swietokrzyskie;Kobieta;75;2:Malzenstwo bez dzieci;1965;1488.67;1;5
+7673;213821211;Swietokrzyskie;Mezczyzna;50;3:Malzenstwo +1;1800;2217.09;5;4
+7691;213830411;Swietokrzyskie;Mezczyzna;26;4:Malzenstwo +2;1752;1627.26;5;5
+7711;213831011;Swietokrzyskie;Mezczyzna;58;2:Malzenstwo bez dzieci;3950;3988.03;3;5
+7721;213840111;Slaskie;Kobieta;29;3:Malzenstwo +1;2900;2764.38;4;3
+7729;213840321;Slaskie;Kobieta;67;2:Malzenstwo bez dzieci;2762;1730.16;7;3
+7732;213840421;Slaskie;Kobieta;79;1:Osoba samotna;1043;1029.12;5;3
+7756;213840911;Slaskie;Kobieta;22;9:Pozostale;2358;2226.78;5;3
+7770;213841221;Slaskie;Kobieta;47;3:Malzenstwo +1;1496;1491.19;3;3
+7783;213850321;Slaskie;Kobieta;34;3:Malzenstwo +1;2250;1511.93;5;3
+7880;213870921;Slaskie;Kobieta;72;1:Osoba samotna;1332.48;883.49;1;2
+7964;213900311;Slaskie;Mezczyzna;25;2:Malzenstwo bez dzieci;4318.54;2794.37;3;2
+7969;213900521;Slaskie;Kobieta;44;3:Malzenstwo +1;2000;1008.86;3;2
+7997;213901211;Slaskie;Kobieta;85;9:Pozostale;4052;3989.32;7;2
+7999;213910111;Slaskie;Mezczyzna;54;2:Malzenstwo bez dzieci;3600;1967.73;3;2
+8010;213910321;Slaskie;Kobieta;33;9:Pozostale;1850;2444.39;5;2
+8011;213910321;Slaskie;Mezczyzna;29;9:Pozostale;1850;2444.39;5;2
+8028;213910821;Slaskie;Kobieta;54;9:Pozostale;3131.15;2428.79;3;2
+8073;213920921;Slaskie;Mezczyzna;34;3:Malzenstwo +1;2700;2671.79;3;2
+8078;213921111;Slaskie;Mezczyzna;70;9:Pozostale;3041;2922.86;5;2
+8171;213950621;Slaskie;Kobieta;58;9:Pozostale;3113;3408.9;4;2
+8175;213950721;Slaskie;Kobieta;43;4:Malzenstwo +2;2530;2158.39;2;2
+8185;213951121;Slaskie;Kobieta;57;9:Pozostale;1896.8;1737.77;1;2
+8201;213960521;Slaskie;Mezczyzna;35;3:Malzenstwo +1;4377.19;1508.32;3;2
+8230;213970221;Slaskie;Kobieta;22;9:Pozostale;5800;2027.9;4;2
+8235;213970321;Slaskie;Mezczyzna;52;9:Pozostale;3600;1075.85;1;2
+8252;213970721;Slaskie;Mezczyzna;48;9:Pozostale;5800;2071.87;3;2
+8269;213971211;Slaskie;Kobieta;36;3:Malzenstwo +1;4535;2074.88;1;2
+8290;213980711;Slaskie;Mezczyzna;25;9:Pozostale;2700.6;2031.31;1;2
+8298;213980911;Slaskie;Kobieta;63;9:Pozostale;1955.6;1936.99;7;2
+8307;213981221;Slaskie;Mezczyzna;56;1:Osoba samotna;925;766.11;5;2
+8309;213990111;Slaskie;Kobieta;58;2:Malzenstwo bez dzieci;1744.7;1473.15;4;3
+8318;213990411;Slaskie;Mezczyzna;47;5:Malzenstwo +3;3882;3206.23;5;3
+8328;213990722;Slaskie;Mezczyzna;50;1:Osoba samotna;1706;2202.08;1;3
+8405;214020311;Slaskie;Kobieta;49;9:Pozostale;5351.91;10789.15;7;3
+8423;214030421;Slaskie;Kobieta;35;4:Malzenstwo +2;2130;1690.49;5;3
+8449;214040321;Slaskie;Mezczyzna;20;9:Pozostale;3643.62;3027.49;2;3
+8460;214041021;Slaskie;Mezczyzna;35;9:Pozostale;5100;1961.72;1;3
+8477;214050321;Slaskie;Mezczyzna;57;2:Malzenstwo bez dzieci;3054.45;2244.97;5;3
+8510;214060411;Slaskie;Kobieta;48;4:Malzenstwo +2;3606;4245.96;3;3
+8532;214061121;Slaskie;Kobieta;32;2:Malzenstwo bez dzieci;2430;1629.04;5;3
+8533;214061221;Slaskie;Mezczyzna;55;1:Osoba samotna;810.72;272.52;3;3
+8570;214090211;Slaskie;Kobieta;59;3:Malzenstwo +1;2850;1770.94;5;3
+8580;214090811;Slaskie;Mezczyzna;56;9:Pozostale;7618.49;16384.25;1;3
+8589;214091021;Slaskie;Kobieta;53;9:Pozostale;2320;1662.43;5;3
+8621;214110421;Slaskie;Kobieta;60;9:Pozostale;1543;1486.87;3;3
+8627;214110811;Slaskie;Kobieta;39;4:Malzenstwo +2;2100;1958.12;2;3
+8636;214120111;Slaskie;Mezczyzna;48;9:Pozostale;3221;2313.37;3;3
+8654;214120511;Slaskie;Kobieta;22;3:Malzenstwo +1;5418.8;4511.76;4;3
+8669;214120911;Slaskie;Kobieta;63;2:Malzenstwo bez dzieci;2650.4;2090.17;5;3
+8687;214130211;Slaskie;Kobieta;34;9:Pozostale;5183.9;3738.18;3;3
+8701;214130721;Slaskie;Kobieta;22;4:Malzenstwo +2;1972.1;1562.05;5;3
+8720;214140221;Slaskie;Kobieta;36;5:Malzenstwo +3;3500;2845.5;3;3
+8722;214140411;Slaskie;Mezczyzna;58;2:Malzenstwo bez dzieci;3870.6;3413.89;5;3
+8731;214140621;Slaskie;Mezczyzna;51;4:Malzenstwo +2;2550;2570.88;3;3
+8737;214140811;Slaskie;Mezczyzna;56;9:Pozostale;3753;3093.53;5;3
+8747;214141021;Slaskie;Mezczyzna;51;4:Malzenstwo +2;3700;1929.54;1;3
+8749;214141111;Slaskie;Mezczyzna;53;2:Malzenstwo bez dzieci;3819.6;3315.95;1;3
+8757;214150121;Slaskie;Mezczyzna;46;3:Malzenstwo +1;2110;1415.17;5;3
+8759;214150211;Slaskie;Kobieta;41;4:Malzenstwo +2;2070.57;1787.7;2;3
+8765;214150511;Slaskie;Mezczyzna;30;2:Malzenstwo bez dzieci;1889.5;1632.13;7;3
+8781;214151121;Slaskie;Kobieta;34;4:Malzenstwo +2;3983.33;3543.58;1;3
+8789;214160311;Slaskie;Mezczyzna;33;3:Malzenstwo +1;4043;4710.62;3;3
+8792;214160411;Slaskie;Mezczyzna;39;4:Malzenstwo +2;3188.68;2506.19;5;3
+8803;214160711;Slaskie;Kobieta;44;2:Malzenstwo bez dzieci;1274.34;1581.09;7;3
+8875;214180611;Slaskie;Mezczyzna;40;4:Malzenstwo +2;2916.33;1776.13;5;4
+8883;214180721;Slaskie;Kobieta;38;4:Malzenstwo +2;2449;4584.72;4;4
+8904;214190211;Slaskie;Kobieta;56;2:Malzenstwo bez dzieci;1714;1058.93;5;3
+8924;214190821;Slaskie;Mezczyzna;69;2:Malzenstwo bez dzieci;2815;2074.99;5;3
+8927;214190921;Slaskie;Kobieta;26;2:Malzenstwo bez dzieci;900;1208.88;5;3
+8929;214191021;Slaskie;Mezczyzna;35;3:Malzenstwo +1;4333.47;3646.78;1;3
+8976;214211011;Slaskie;Kobieta;33;9:Pozostale;5728;5107.14;5;3
+9001;214220511;Slaskie;Kobieta;45;7:Matka i dzieci;2700;2770.43;5;3
+9013;214220811;Slaskie;Mezczyzna;22;9:Pozostale;3717.68;4043.97;3;3
+9055;214230921;Slaskie;Mezczyzna;69;2:Malzenstwo bez dzieci;2233.6;1397.37;5;3
+9089;214241011;Slaskie;Kobieta;53;2:Malzenstwo bez dzieci;1735;1025.12;5;4
+9098;214241221;Slaskie;Kobieta;35;4:Malzenstwo +2;4935;4960.1;1;4
+9130;214260111;Slaskie;Mezczyzna;71;2:Malzenstwo bez dzieci;2550;985.39;5;4
+9152;214260721;Slaskie;Mezczyzna;26;2:Malzenstwo bez dzieci;2200;1227.98;5;4
+9168;214270111;Slaskie;Kobieta;56;2:Malzenstwo bez dzieci;3590.6;3948.04;5;4
+9171;214270121;Slaskie;Mezczyzna;32;9:Pozostale;2238.5;2831.3;7;4
+9177;214270221;Slaskie;Mezczyzna;28;9:Pozostale;5894.8;4617.45;3;4
+9191;214270521;Slaskie;Kobieta;42;9:Pozostale;1947;1241.17;5;4
+9193;214270611;Slaskie;Mezczyzna;56;2:Malzenstwo bez dzieci;2360;1881.73;7;4
+9209;214270821;Slaskie;Mezczyzna;68;2:Malzenstwo bez dzieci;2910;3512.98;5;4
+9215;214271011;Slaskie;Mezczyzna;24;9:Pozostale;5242;7069.4;3;4
+9238;214280411;Slaskie;Kobieta;39;3:Malzenstwo +1;1586.35;2591.13;3;4
+9294;214291011;Slaskie;Kobieta;53;2:Malzenstwo bez dzieci;1660;1848.12;2;4
+9307;214300221;Slaskie;Kobieta;57;2:Malzenstwo bez dzieci;1841.37;859.16;7;4
+9328;214300921;Slaskie;Mezczyzna;38;4:Malzenstwo +2;2170;1330.43;5;4
+9364;214310621;Slaskie;Kobieta;60;2:Malzenstwo bez dzieci;990;956.42;4;4
+9375;214311121;Slaskie;Kobieta;67;9:Pozostale;1350.11;1286.54;7;4
+9396;214320511;Slaskie;Kobieta;22;1:Osoba samotna;830;748.74;4;4
+9423;214321111;Slaskie;Kobieta;52;9:Pozostale;2740;1954.04;5;4
+9431;214330121;Slaskie;Kobieta;50;7:Matka i dzieci;1660;1111.17;3;4
+9432;214330121;Slaskie;Kobieta;22;7:Matka i dzieci;1660;1111.17;5;4
+9453;214340321;Slaskie;Kobieta;63;2:Malzenstwo bez dzieci;2503.91;3144.35;7;4
+9475;214350621;Slaskie;Kobieta;35;4:Malzenstwo +2;3071;2624.75;2;4
+9476;214350711;Slaskie;Mezczyzna;64;2:Malzenstwo bez dzieci;3520.36;2717.31;5;4
+9490;214351121;Slaskie;Kobieta;43;4:Malzenstwo +2;3500;2538;3;4
+9493;214351221;Slaskie;Kobieta;45;4:Malzenstwo +2;2825;2820.11;5;4
+9525;214361011;Slaskie;Kobieta;47;9:Pozostale;5837.2;5626.14;3;4
+9529;214361211;Slaskie;Mezczyzna;58;2:Malzenstwo bez dzieci;1585;1576.64;5;4
+9568;214371121;Slaskie;Mezczyzna;58;2:Malzenstwo bez dzieci;3000;2365.06;3;5
+9580;214380321;Slaskie;Mezczyzna;36;3:Malzenstwo +1;1668;1566.83;3;4
+9582;214380411;Slaskie;Kobieta;69;1:Osoba samotna;1170;1034.95;5;4
+9587;214380611;Slaskie;Mezczyzna;47;4:Malzenstwo +2;1670;1622.38;3;4
+9620;214390411;Slaskie;Kobieta;20;9:Pozostale;3741.99;2576.49;3;5
+9644;214391021;Slaskie;Mezczyzna;57;2:Malzenstwo bez dzieci;1959.9;2079.2;7;5
+9654;214391221;Slaskie;Mezczyzna;33;9:Pozostale;1043.85;1011.69;5;5
+9685;214400811;Slaskie;Kobieta;70;1:Osoba samotna;1400;1112.81;7;4
+9691;214401211;Slaskie;Kobieta;49;9:Pozostale;6480;7861.27;3;4
+9704;214410321;Slaskie;Kobieta;71;2:Malzenstwo bez dzieci;1483;1125.58;7;5
+9729;214411111;Slaskie;Kobieta;28;5:Malzenstwo +3;2470;1963.62;5;5
+9748;214420511;Slaskie;Mezczyzna;24;9:Pozostale;7758;6431.61;4;4
+9793;214430611;Slaskie;Kobieta;68;9:Pozostale;2200;1865.47;7;4
+9794;214430611;Slaskie;Kobieta;43;9:Pozostale;2200;1865.47;7;4
+9802;214430811;Slaskie;Kobieta;58;9:Pozostale;5434;7198.29;7;4
+9811;214430922;Slaskie;Mezczyzna;66;2:Malzenstwo bez dzieci;1630;1514.66;5;4
+9816;214431111;Slaskie;Kobieta;41;4:Malzenstwo +2;1878.01;1808.49;5;4
+9832;214440321;Slaskie;Mezczyzna;41;4:Malzenstwo +2;2816;2710.98;5;4
+9868;214441111;Slaskie;Kobieta;33;9:Pozostale;5690;3834.37;3;4
+9888;214450611;Slaskie;Mezczyzna;41;5:Malzenstwo +3;1590;1865.23;5;4
+9911;214451121;Slaskie;Kobieta;60;9:Pozostale;5590;3480.87;4;4
+10077;214500111;Pomorskie;Mezczyzna;56;4:Malzenstwo +2;6751.1;7409.92;1;2
+10107;214501011;Pomorskie;Kobieta;71;2:Malzenstwo bez dzieci;3495.05;1694.51;1;2
+10150;214520121;Pomorskie;Mezczyzna;58;9:Pozostale;7526.99;7696.6;1;2
+10167;214520721;Pomorskie;Mezczyzna;32;9:Pozostale;6580;5050.9;2;2
+10211;214540111;Pomorskie;Mezczyzna;48;3:Malzenstwo +1;14000;11998.62;1;2
+10266;214560121;Pomorskie;Kobieta;69;2:Malzenstwo bez dzieci;2128;936.07;7;4
+10278;214560611;Pomorskie;Kobieta;26;9:Pozostale;2818.93;2662.04;1;4
+10296;214561121;Pomorskie;Kobieta;69;2:Malzenstwo bez dzieci;2217;1219.3;3;4
+10322;214570521;Pomorskie;Kobieta;73;1:Osoba samotna;1185;1212.48;7;4
+10406;214590221;Pomorskie;Kobieta;29;4:Malzenstwo +2;345;999.34;1;5
+10432;214590721;Pomorskie;Mezczyzna;69;9:Pozostale;5925.63;4341.32;5;5
+10441;214590921;Pomorskie;Kobieta;52;1:Osoba samotna;640;1249.67;7;5
+10484;214600711;Pomorskie;Kobieta;36;4:Malzenstwo +2;2870;1311.02;3;4
+10493;214600911;Pomorskie;Mezczyzna;25;3:Malzenstwo +1;1870;1628.32;1;4
+10511;214610121;Pomorskie;Kobieta;32;3:Malzenstwo +1;4271.48;3957.36;3;4
+10551;214620111;Pomorskie;Mezczyzna;77;2:Malzenstwo bez dzieci;3100.4;2680.07;4;4
+10553;214620121;Pomorskie;Kobieta;70;2:Malzenstwo bez dzieci;1678.55;2624.59;7;4
+10555;214620211;Pomorskie;Mezczyzna;38;4:Malzenstwo +2;4000;3222.67;5;4
+10581;214620911;Pomorskie;Mezczyzna;77;2:Malzenstwo bez dzieci;3401.9;3260.07;3;4
+10583;214620921;Pomorskie;Mezczyzna;36;4:Malzenstwo +2;3108;2468.29;3;4
+10616;214631011;Pomorskie;Kobieta;68;9:Pozostale;1762;2078.02;7;4
+10629;214640211;Pomorskie;Kobieta;51;4:Malzenstwo +2;3087.46;2410.4;5;5
+10644;214640711;Pomorskie;Mezczyzna;62;2:Malzenstwo bez dzieci;2830;3283.09;3;5
+10645;214640721;Pomorskie;Mezczyzna;39;4:Malzenstwo +2;5453;2324.97;3;5
+10653;214641011;Pomorskie;Kobieta;32;3:Malzenstwo +1;4477.66;4534.46;3;5
+10657;214641111;Pomorskie;Kobieta;63;9:Pozostale;2968;2703.88;7;5
+10672;214650711;Pomorskie;Kobieta;79;9:Pozostale;2492.05;2394.07;1;5
+10745;214670521;Pomorskie;Kobieta;21;9:Pozostale;2307;2273.49;6;5
+10746;214670611;Pomorskie;Mezczyzna;50;9:Pozostale;2920;3105.03;5;5
+10778;214680111;Podlaskie;Kobieta;82;9:Pozostale;2527;1718.42;7;5
+10802;214681011;Podlaskie;Mezczyzna;46;9:Pozostale;2700;2247.12;3;5
+10808;214681211;Podlaskie;Mezczyzna;27;4:Malzenstwo +2;1798.26;1396.04;7;5
+10866;214691211;Podlaskie;Mezczyzna;57;3:Malzenstwo +1;3876.85;4956.2;5;5
+10993;214730711;Podlaskie;Kobieta;46;3:Malzenstwo +1;2929.96;2213.71;3;4
+11004;214731111;Podlaskie;Kobieta;50;7:Matka i dzieci;1264.13;2210.26;2;4
+11017;214740711;Podlaskie;Kobieta;43;1:Osoba samotna;2690.87;1891.58;1;4
+11050;214750621;Podkarpackie;Kobieta;77;9:Pozostale;1007;989.4;7;4
+11060;214750821;Podkarpackie;Kobieta;69;2:Malzenstwo bez dzieci;2404.38;2375.32;3;4
+11064;214751011;Podkarpackie;Mezczyzna;49;6:Malzenstwo +4+;3095;3032.72;5;4
+11068;214751021;Podkarpackie;Kobieta;21;9:Pozostale;1120;1972.96;4;4
+11082;214760221;Podkarpackie;Kobieta;69;2:Malzenstwo bez dzieci;1745.53;1243.49;7;4
+11087;214760321;Podkarpackie;Kobieta;43;4:Malzenstwo +2;6312;5191.2;1;4
+11128;214761111;Podkarpackie;Kobieta;68;9:Pozostale;3370;2639.31;7;4
+11134;214761121;Podkarpackie;Kobieta;32;9:Pozostale;2809.65;2767.11;3;4
+11159;214770811;Podkarpackie;Kobieta;57;1:Osoba samotna;895.87;767.11;7;4
+11162;214770911;Podkarpackie;Mezczyzna;38;9:Pozostale;2106;1864.96;5;4
+11174;214780121;Podkarpackie;Kobieta;46;2:Malzenstwo bez dzieci;4500;4332.78;1;4
+11269;214800111;Podkarpackie;Mezczyzna;53;9:Pozostale;4714.33;4473.77;1;4
+11275;214800211;Podkarpackie;Kobieta;38;9:Pozostale;1573;2094.39;5;4
+11279;214800321;Podkarpackie;Mezczyzna;41;9:Pozostale;3278.5;2856.87;4;4
+11318;214810421;Podkarpackie;Mezczyzna;46;4:Malzenstwo +2;1480.85;1645.04;7;4
+11349;214811211;Podkarpackie;Kobieta;49;9:Pozostale;3741.79;2735.77;3;4
+11365;214820411;Podkarpackie;Mezczyzna;49;3:Malzenstwo +1;3090;3219.11;1;4
+11394;214821121;Podkarpackie;Kobieta;21;9:Pozostale;2830;2017.42;4;4
+11396;214821211;Podkarpackie;Kobieta;53;2:Malzenstwo bez dzieci;6012;5649.35;1;4
+11405;214830211;Podkarpackie;Mezczyzna;58;9:Pozostale;927.6;1040.52;5;5
+11443;214831111;Podkarpackie;Mezczyzna;45;9:Pozostale;2247.28;2022.52;5;5
+11462;214840221;Podkarpackie;Kobieta;79;1:Osoba samotna;774.9;799.35;7;5
+11463;214840311;Podkarpackie;Kobieta;67;2:Malzenstwo bez dzieci;2018.15;2180.47;2;5
+11467;214840421;Podkarpackie;Kobieta;75;9:Pozostale;2429.55;2525.74;3;5
+11507;214850211;Podkarpackie;Mezczyzna;28;9:Pozostale;3096.76;2370.88;1;5
+11518;214850611;Podkarpackie;Kobieta;33;3:Malzenstwo +1;2240.37;1752.37;2;5
+11549;214860221;Podkarpackie;Mezczyzna;41;9:Pozostale;726;852.02;5;5
+11556;214860321;Podkarpackie;Mezczyzna;21;4:Malzenstwo +2;1757;1583.11;3;5
+11564;214860611;Podkarpackie;Mezczyzna;64;9:Pozostale;3507;4155.73;5;5
+11631;214880121;Opolskie;Kobieta;75;1:Osoba samotna;910.12;570.17;7;4
+11658;214881111;Opolskie;Mezczyzna;32;9:Pozostale;4076.87;1824.2;1;4
+11687;214900221;Opolskie;Kobieta;25;3:Malzenstwo +1;1818;1666.25;2;5
+11712;214900911;Opolskie;Kobieta;71;2:Malzenstwo bez dzieci;2365.6;4864.92;1;5
+11732;214910211;Opolskie;Mezczyzna;59;2:Malzenstwo bez dzieci;4058.83;3901.53;1;5
+11741;214910521;Opolskie;Mezczyzna;60;2:Malzenstwo bez dzieci;1718.37;1439.58;5;5
+11747;214910711;Opolskie;Mezczyzna;58;9:Pozostale;984.32;984.36;7;5
+11750;214910921;Opolskie;Mezczyzna;54;2:Malzenstwo bez dzieci;1207.62;1157.7;5;5
+11768;214920211;Opolskie;Mezczyzna;42;9:Pozostale;6522.16;4113.82;1;5
+11775;214920521;Opolskie;Mezczyzna;39;3:Malzenstwo +1;3361.56;2555.14;4;5
+11804;214940211;Mazowieckie;Mezczyzna;23;9:Pozostale;3295.73;2104.29;1;3
+11844;214941221;Mazowieckie;Mezczyzna;68;2:Malzenstwo bez dzieci;3140.6;3708.26;3;3
+11892;214961011;Mazowieckie;Kobieta;22;4:Malzenstwo +2;3769.78;13268.59;4;3
+11895;214961121;Mazowieckie;Mezczyzna;58;9:Pozostale;4504.9;3053.67;1;3
+11919;214970721;Mazowieckie;Mezczyzna;32;4:Malzenstwo +2;1502.1;1720.83;5;2
+11965;214981211;Mazowieckie;Kobieta;20;9:Pozostale;2071.53;1834.17;4;2
+11978;214990421;Mazowieckie;Mezczyzna;26;9:Pozostale;3765.55;3461.74;3;2
+11984;214990621;Mazowieckie;Mezczyzna;50;4:Malzenstwo +2;3588.89;2607.62;5;2
+11990;214990821;Mazowieckie;Mezczyzna;54;3:Malzenstwo +1;2711.4;2145.48;5;2
+12007;215000111;Mazowieckie;Mezczyzna;21;3:Malzenstwo +1;5835;6013.67;4;2
+12011;215000221;Mazowieckie;Mezczyzna;38;3:Malzenstwo +1;2300.67;2652.24;3;2
+12023;215000611;Mazowieckie;Mezczyzna;68;2:Malzenstwo bez dzieci;2198.5;1809.66;5;2
+12027;215000711;Mazowieckie;Kobieta;60;1:Osoba samotna;2130.34;1715.48;1;2
+12036;215000921;Mazowieckie;Kobieta;32;3:Malzenstwo +1;3800;4432.56;1;2
+12069;215010621;Mazowieckie;Kobieta;20;4:Malzenstwo +2;10200;6652.51;4;4
+12088;215011121;Mazowieckie;Kobieta;41;9:Pozostale;5350;3245.42;1;4
+12113;215020811;Mazowieckie;Kobieta;66;2:Malzenstwo bez dzieci;6094.23;3244.31;4;4
+12189;215040611;Mazowieckie;Mezczyzna;80;2:Malzenstwo bez dzieci;1978.23;4098.07;7;4
+12231;215050621;Mazowieckie;Kobieta;59;2:Malzenstwo bez dzieci;1920.54;1445.78;5;4
+12236;215050921;Mazowieckie;Mezczyzna;56;4:Malzenstwo +2;4414.36;3629.04;3;4
+12250;215060221;Mazowieckie;Kobieta;71;2:Malzenstwo bez dzieci;1240;1682.96;7;4
+12262;215060521;Mazowieckie;Kobieta;47;4:Malzenstwo +2;5894.33;5570.61;1;4
+12280;215061111;Mazowieckie;Kobieta;62;2:Malzenstwo bez dzieci;2219;1720.58;1;4
+12350;215080911;Mazowieckie;Mezczyzna;65;2:Malzenstwo bez dzieci;1764.09;1724.67;7;5
+12353;215080921;Mazowieckie;Kobieta;45;3:Malzenstwo +1;4000;3635.63;3;5
+12368;215090311;Mazowieckie;Kobieta;36;2:Malzenstwo bez dzieci;260;504.1;7;4
+12375;215090621;Mazowieckie;Kobieta;38;5:Malzenstwo +3;7400;7170.01;3;4
+12377;215090721;Mazowieckie;Mezczyzna;71;2:Malzenstwo bez dzieci;1585.99;660.21;3;4
+12426;215110121;Mazowieckie;Mezczyzna;36;3:Malzenstwo +1;3744.1;2242.65;3;4
+12453;215110711;Mazowieckie;Kobieta;52;3:Malzenstwo +1;5990.1;7427.73;1;4
+12471;215111111;Mazowieckie;Kobieta;40;4:Malzenstwo +2;4739.6;3883.97;1;4
+12488;215120411;Mazowieckie;Kobieta;33;9:Pozostale;2520;3201.19;4;4
+12510;215121111;Mazowieckie;Mezczyzna;31;5:Malzenstwo +3;2681;2850.54;7;4
+12531;215130721;Mazowieckie;Kobieta;49;4:Malzenstwo +2;4400;3597.98;3;4
+12548;215131211;Mazowieckie;Mezczyzna;20;7:Matka i dzieci;1162.43;1368.94;5;4
+12555;215140421;Mazowieckie;Mezczyzna;71;1:Osoba samotna;1250;1802.29;5;4
+12562;215140911;Mazowieckie;Mezczyzna;32;6:Malzenstwo +4+;2715;1806.58;5;4
+12563;215140911;Mazowieckie;Kobieta;31;6:Malzenstwo +4+;2715;1806.58;5;4
+12578;215150311;Mazowieckie;Mezczyzna;31;9:Pozostale;2890.23;1996.73;5;5
+12598;215150921;Mazowieckie;Kobieta;50;2:Malzenstwo bez dzieci;1510.89;1197.62;4;5
+12610;215160121;Mazowieckie;Mezczyzna;32;4:Malzenstwo +2;6098;6238.65;4;5
+12631;215160621;Mazowieckie;Mezczyzna;33;4:Malzenstwo +2;3806;1767;4;5
+12640;215160821;Mazowieckie;Mezczyzna;37;3:Malzenstwo +1;6534.41;6008.3;3;5
+12644;215160911;Mazowieckie;Kobieta;69;9:Pozostale;4238.98;2671.89;7;5
+12667;215170211;Mazowieckie;Mezczyzna;24;3:Malzenstwo +1;4100;1879.57;1;5
+12673;215170511;Mazowieckie;Kobieta;34;3:Malzenstwo +1;2409.33;2652.49;3;5
+12715;215180521;Mazowieckie;Kobieta;56;2:Malzenstwo bez dzieci;2371.09;1403.3;3;5
+12722;215180811;Mazowieckie;Kobieta;71;1:Osoba samotna;806.17;788.68;4;5
+12728;215180921;Mazowieckie;Mezczyzna;47;4:Malzenstwo +2;2050;1877.02;3;5
+12730;215180921;Mazowieckie;Mezczyzna;22;4:Malzenstwo +2;2050;1877.02;5;5
+12737;215181121;Mazowieckie;Kobieta;66;2:Malzenstwo bez dzieci;1694.45;1322.96;7;5
+12774;215191211;Mazowieckie;Kobieta;38;4:Malzenstwo +2;4392.42;5003.92;1;5
+12786;215200421;Mazowieckie;Mezczyzna;67;1:Osoba samotna;2500;1299.73;3;5
+12800;215200911;Mazowieckie;Mezczyzna;64;2:Malzenstwo bez dzieci;1996.13;1314.83;3;5
+12865;215220521;Mazowieckie;Kobieta;21;3:Malzenstwo +1;1381;2797.05;4;5
+12880;215220821;Mazowieckie;Kobieta;42;2:Malzenstwo bez dzieci;4712.2;4393.92;3;5
+12881;215220911;Mazowieckie;Mezczyzna;61;9:Pozostale;2391.8;2051.8;7;5
+12883;215220911;Mazowieckie;Mezczyzna;26;9:Pozostale;2391.8;2051.8;3;5
+12888;215221011;Mazowieckie;Mezczyzna;24;9:Pozostale;3407.63;5586.22;1;5
+12925;215230721;Mazowieckie;Kobieta;30;7:Matka i dzieci;1623.29;1551.04;4;5
+12939;215231121;Mazowieckie;Mezczyzna;49;5:Malzenstwo +3;2700;2006.39;5;5
+12943;215231211;Mazowieckie;Kobieta;75;9:Pozostale;2193;2998.04;4;5
+12960;215240621;Malopolskie;Mezczyzna;51;9:Pozostale;2395.8;1416.59;5;3
+12966;215240811;Malopolskie;Kobieta;77;9:Pozostale;2140.25;1418.61;7;3
+12982;215241211;Malopolskie;Kobieta;82;2:Malzenstwo bez dzieci;4017.77;2984.96;1;3
+12995;215250711;Malopolskie;Mezczyzna;47;9:Pozostale;7983.39;4853.62;5;3
+13007;215251211;Malopolskie;Kobieta;31;2:Malzenstwo bez dzieci;2416.01;1320.71;3;3
+13026;215260421;Malopolskie;Kobieta;57;2:Malzenstwo bez dzieci;3204;1614.25;2;4
+13056;215270211;Malopolskie;Mezczyzna;29;2:Malzenstwo bez dzieci;1900;1909.21;4;4
+13068;215270621;Malopolskie;Mezczyzna;45;4:Malzenstwo +2;2520;2224.04;4;4
+13098;215280211;Malopolskie;Kobieta;21;9:Pozostale;7477;7541.66;4;4
+13106;215280411;Malopolskie;Mezczyzna;56;9:Pozostale;5239.3;4853.74;1;4
+13143;215290211;Malopolskie;Mezczyzna;83;2:Malzenstwo bez dzieci;2137;1228.33;3;4
+13158;215290621;Malopolskie;Mezczyzna;54;2:Malzenstwo bez dzieci;2130;1358.23;3;4
+13212;215301011;Malopolskie;Mezczyzna;59;9:Pozostale;1660;1563.25;5;4
+13249;215311111;Malopolskie;Mezczyzna;70;2:Malzenstwo bez dzieci;1620;1300.37;5;4
+13271;215330111;Malopolskie;Kobieta;84;1:Osoba samotna;1217;977.42;7;5
+13296;215330811;Malopolskie;Mezczyzna;35;3:Malzenstwo +1;3503.33;4330.99;1;5
+13332;215340511;Malopolskie;Mezczyzna;43;9:Pozostale;4300;2372.23;5;5
+13391;215351021;Malopolskie;Kobieta;25;9:Pozostale;4434.8;2982.43;4;5
+13400;215351211;Malopolskie;Mezczyzna;20;9:Pozostale;4154;4195.24;6;5
+13417;215360421;Malopolskie;Kobieta;46;5:Malzenstwo +3;1530;1778.2;3;5
+13452;215370411;Malopolskie;Mezczyzna;60;2:Malzenstwo bez dzieci;1255.94;1213.35;7;5
+13468;215370911;Malopolskie;Mezczyzna;49;9:Pozostale;5800;1764.59;5;5
+13567;215400211;Lodzkie;Kobieta;60;2:Malzenstwo bez dzieci;4160;3230.2;2;4
+13583;215400821;Lodzkie;Kobieta;70;1:Osoba samotna;1299.08;1115.68;5;4
+13625;215420111;Lodzkie;Kobieta;65;2:Malzenstwo bez dzieci;2027.4;1919.64;7;4
+13626;215420121;Lodzkie;Kobieta;44;4:Malzenstwo +2;2540;2517.23;1;4
+13674;215430611;Lodzkie;Mezczyzna;49;1:Osoba samotna;956;691.37;3;4
+13678;215430721;Lodzkie;Kobieta;57;2:Malzenstwo bez dzieci;1820.14;1293.86;7;4
+13703;215440311;Lodzkie;Kobieta;21;9:Pozostale;2615;2681.95;4;4
+13765;215450921;Lodzkie;Kobieta;82;1:Osoba samotna;1053.75;1294.07;7;4
+13794;215460521;Lodzkie;Kobieta;45;5:Malzenstwo +3;3078.98;2791.96;3;4
+13801;215460721;Lodzkie;Kobieta;48;1:Osoba samotna;927.6;1278.45;4;4
+13812;215461111;Lodzkie;Kobieta;38;9:Pozostale;2684.64;2372.94;7;4
+13856;215480121;Lodzkie;Mezczyzna;72;2:Malzenstwo bez dzieci;2117.96;2020.94;7;5
+13864;215480321;Lodzkie;Kobieta;24;3:Malzenstwo +1;2242;1592.36;3;5
+13866;215480421;Lodzkie;Kobieta;93;9:Pozostale;2246;3004.71;4;5
+13882;215481011;Lodzkie;Kobieta;24;9:Pozostale;3371.33;2199.07;3;5
+13885;215481111;Lodzkie;Mezczyzna;38;9:Pozostale;7100.34;4874.13;1;5
+13925;215491011;Lodzkie;Kobieta;68;2:Malzenstwo bez dzieci;1845;2006.68;3;4
+13959;215500621;Lodzkie;Mezczyzna;29;9:Pozostale;8618.24;4780.78;7;5
+13993;215510421;Lodzkie;Kobieta;61;9:Pozostale;3396;3532.52;3;5
+14001;215510721;Lodzkie;Mezczyzna;55;9:Pozostale;1386.59;2974.53;4;5
+14011;215511011;Lodzkie;Kobieta;31;9:Pozostale;4846.01;4075.88;1;5
+14012;215511021;Lodzkie;Kobieta;55;9:Pozostale;2415.6;2548.72;3;5
+14013;215511021;Lodzkie;Kobieta;78;9:Pozostale;2415.6;2548.72;7;5
+14016;215511121;Lodzkie;Kobieta;65;1:Osoba samotna;994.35;863.65;4;5
+14046;215520821;Lodzkie;Kobieta;28;9:Pozostale;3907.28;2486.38;1;5
+14066;215530111;Lodzkie;Mezczyzna;23;9:Pozostale;3119.62;2262.58;3;5
+14068;215530211;Lodzkie;Mezczyzna;60;2:Malzenstwo bez dzieci;3506;2352.68;1;5
+14075;215530321;Lodzkie;Kobieta;56;2:Malzenstwo bez dzieci;1392.72;1121.38;5;5
+14086;215530611;Lodzkie;Kobieta;52;1:Osoba samotna;1840;3698.08;2;5
+14101;215531021;Lodzkie;Kobieta;28;9:Pozostale;4165.17;4128.12;1;5
+14158;215550311;Lodzkie;Kobieta;33;3:Malzenstwo +1;4065.04;3480.33;1;4
+14173;215550911;Lodzkie;Mezczyzna;36;4:Malzenstwo +2;2628;1523.81;5;4
+14183;215551211;Lodzkie;Kobieta;70;9:Pozostale;4395.17;3833.36;7;4
+14201;215560821;Lodzkie;Kobieta;48;9:Pozostale;985;1011.19;3;4
+14231;215580221;Lubuskie;Mezczyzna;59;3:Malzenstwo +1;2040.15;1930.17;5;3
+14236;215580411;Lubuskie;Kobieta;45;5:Malzenstwo +3;3780;2309.18;3;3
+14239;215580421;Lubuskie;Kobieta;77;1:Osoba samotna;890;821.55;8;3
+14273;215590421;Lubuskie;Kobieta;57;2:Malzenstwo bez dzieci;2582.02;3281.95;3;5
+14276;215590611;Lubuskie;Mezczyzna;53;9:Pozostale;9409.7;6772.95;1;5
+14324;215600821;Lubuskie;Mezczyzna;60;2:Malzenstwo bez dzieci;2319.5;1491.79;5;4
+14330;215601011;Lubuskie;Kobieta;89;1:Osoba samotna;872.16;952.98;7;4
+14414;215621021;Lubuskie;Mezczyzna;38;5:Malzenstwo +3;2609.17;2863.75;5;5
+14415;215621021;Lubuskie;Kobieta;33;5:Malzenstwo +3;2609.17;2863.75;4;5
+14440;215630821;Lubuskie;Kobieta;74;2:Malzenstwo bez dzieci;1855.04;1565.35;7;5
+14463;215640311;Lubuskie;Kobieta;32;9:Pozostale;4258.19;2407.5;5;4
+14483;215640911;Lubuskie;Mezczyzna;23;9:Pozostale;3671.5;2786.82;3;4
+14489;215641121;Lubuskie;Mezczyzna;72;2:Malzenstwo bez dzieci;1866;1200.59;5;4
+14503;215650411;Lubuskie;Mezczyzna;55;3:Malzenstwo +1;1708.69;1201.41;3;4
+14504;215650411;Lubuskie;Mezczyzna;23;3:Malzenstwo +1;1708.69;1201.41;7;4
+14526;215651221;Lubuskie;Kobieta;33;5:Malzenstwo +3;2509.19;1366.29;5;4
+14556;215660921;Lubelskie;Kobieta;66;2:Malzenstwo bez dzieci;1042.47;1343.87;4;4
+14560;215661021;Lubelskie;Mezczyzna;60;2:Malzenstwo bez dzieci;2689;1933.96;5;4
+14566;215661211;Lubelskie;Kobieta;21;9:Pozostale;1583.09;1782.7;3;4
+14579;215670321;Lubelskie;Kobieta;36;5:Malzenstwo +3;5000;4757.11;3;4
+14616;215680121;Lubelskie;Mezczyzna;61;9:Pozostale;2114.58;1948.64;5;4
+14640;215680621;Lubelskie;Mezczyzna;49;3:Malzenstwo +1;3441;4953.1;3;4
+14642;215680711;Lubelskie;Mezczyzna;49;9:Pozostale;5258.51;1808.52;3;4
+14647;215680821;Lubelskie;Mezczyzna;70;9:Pozostale;5125.66;6078.26;2;4
+14689;215690811;Lubelskie;Kobieta;31;3:Malzenstwo +1;2400;1987.74;1;4
+14699;215691021;Lubelskie;Kobieta;51;5:Malzenstwo +3;5780;3590.35;1;4
+14708;215691211;Lubelskie;Kobieta;24;2:Malzenstwo bez dzieci;3192.42;2258.69;1;4
+14753;215701111;Lubelskie;Mezczyzna;44;6:Malzenstwo +4+;4346.18;3164.8;1;4
+14758;215701211;Lubelskie;Mezczyzna;44;5:Malzenstwo +3;4659.6;2674.06;3;4
+14764;215710121;Lubelskie;Kobieta;28;3:Malzenstwo +1;2335.52;1671.85;3;4
+14767;215710221;Lubelskie;Kobieta;52;1:Osoba samotna;1584.2;1542.97;2;4
+14810;215720311;Lubelskie;Kobieta;63;9:Pozostale;989.18;943.18;7;4
+14851;215730521;Lubelskie;Kobieta;43;9:Pozostale;3827.25;1853.58;3;4
+14871;215740111;Lubelskie;Kobieta;20;5:Malzenstwo +3;3013.57;1785.44;4;5
+14885;215740521;Lubelskie;Kobieta;33;9:Pozostale;2110.83;1345.65;3;5
+14898;215741121;Lubelskie;Kobieta;56;1:Osoba samotna;1483.25;1061.23;4;5
+14900;215750121;Lubelskie;Mezczyzna;52;4:Malzenstwo +2;1736;924.09;5;5
+14907;215750311;Lubelskie;Mezczyzna;49;2:Malzenstwo bez dzieci;828;1292.7;7;5
+14910;215750411;Lubelskie;Mezczyzna;51;9:Pozostale;1802;606.62;3;5
+14924;215750811;Lubelskie;Kobieta;49;3:Malzenstwo +1;4561.17;3377.82;1;5
+14957;215760311;Lubelskie;Kobieta;51;9:Pozostale;1547;2193.04;3;5
+14969;215760621;Lubelskie;Kobieta;92;1:Osoba samotna;901.03;1224.9;8;5
+14973;215760721;Lubelskie;Kobieta;46;9:Pozostale;6003.35;2361.9;3;5
+14976;215760811;Lubelskie;Kobieta;57;3:Malzenstwo +1;3307.6;4575.51;3;5
+15036;215771121;Lubelskie;Mezczyzna;65;9:Pozostale;3448;4080.64;7;5
+15043;215780121;Kujawsko-pomorskie;Kobieta;40;3:Malzenstwo +1;3628;2130.16;1;4
+15049;215780421;Kujawsko-pomorskie;Mezczyzna;54;9:Pozostale;2320;1624.36;3;4
+15157;215810311;Kujawsko-pomorskie;Mezczyzna;69;9:Pozostale;3170;2623.15;5;2
+15183;215811111;Kujawsko-pomorskie;Mezczyzna;57;2:Malzenstwo bez dzieci;1580;1630.01;3;2
+15194;215820311;Kujawsko-pomorskie;Kobieta;37;7:Matka i dzieci;3687.08;3417.64;1;2
+15237;215830311;Kujawsko-pomorskie;Kobieta;29;3:Malzenstwo +1;4150;2984.32;1;2
+15240;215830321;Kujawsko-pomorskie;Mezczyzna;48;4:Malzenstwo +2;2652.04;806.49;7;2
+15253;215830911;Kujawsko-pomorskie;Kobieta;33;3:Malzenstwo +1;4200;5459.89;1;2
+15296;215850311;Kujawsko-pomorskie;Mezczyzna;36;3:Malzenstwo +1;5200;6814.12;1;3
+15335;215860511;Kujawsko-pomorskie;Kobieta;26;9:Pozostale;3000;1670.33;2;5
+15344;215860711;Kujawsko-pomorskie;Kobieta;28;9:Pozostale;3240;1878.9;5;5
+15365;215870221;Kujawsko-pomorskie;Kobieta;54;2:Malzenstwo bez dzieci;1418.15;1183.64;5;4
+15368;215870311;Kujawsko-pomorskie;Mezczyzna;61;2:Malzenstwo bez dzieci;2687.22;2153.62;5;4
+15381;215870621;Kujawsko-pomorskie;Kobieta;66;1:Osoba samotna;754.72;728.71;5;4
+15459;215890711;Kujawsko-pomorskie;Mezczyzna;34;4:Malzenstwo +2;2242;2013.16;5;4
+15537;215920121;Kujawsko-pomorskie;Mezczyzna;39;4:Malzenstwo +2;4000;3240.88;3;5
+15593;215930621;Kujawsko-pomorskie;Kobieta;30;3:Malzenstwo +1;2350;1078.22;7;4
+15606;215931011;Kujawsko-pomorskie;Mezczyzna;29;9:Pozostale;2840;3221.47;5;4
+15654;215941011;Kujawsko-pomorskie;Mezczyzna;45;4:Malzenstwo +2;5123.33;3714.34;5;5
+15670;215950321;Dolnoslaskie;Kobieta;48;9:Pozostale;4711.6;2858.75;5;3
+15687;215951011;Dolnoslaskie;Kobieta;23;7:Matka i dzieci;1628;1914.83;7;3
+15692;215951121;Dolnoslaskie;Kobieta;79;9:Pozostale;1117.2;2680.71;7;3
+15737;215970821;Dolnoslaskie;Kobieta;30;9:Pozostale;3305.54;3467.13;1;3
+15738;215970911;Dolnoslaskie;Mezczyzna;62;9:Pozostale;2877.28;2904.55;5;3
+15774;215980511;Dolnoslaskie;Kobieta;27;9:Pozostale;2918;2306.19;7;3
+15831;216000121;Dolnoslaskie;Mezczyzna;30;9:Pozostale;4231.33;2814.38;1;4
+15846;216000811;Dolnoslaskie;Kobieta;53;9:Pozostale;6940.55;2887.03;1;4
+15864;216001211;Dolnoslaskie;Mezczyzna;36;4:Malzenstwo +2;6643.45;4453.74;4;4
+15882;216010921;Dolnoslaskie;Kobieta;56;2:Malzenstwo bez dzieci;1607.66;1514.12;4;4
+15883;216010921;Dolnoslaskie;Mezczyzna;60;2:Malzenstwo bez dzieci;1607.66;1514.12;3;4
+15934;216040421;Dolnoslaskie;Mezczyzna;23;9:Pozostale;3172;1677.52;3;4
+15988;216060211;Dolnoslaskie;Kobieta;52;9:Pozostale;1645.45;1408.33;3;4
+16002;216060611;Dolnoslaskie;Mezczyzna;22;3:Malzenstwo +1;2434;1775.38;4;4
+16013;216060921;Dolnoslaskie;Mezczyzna;48;9:Pozostale;3877;4655.36;4;4
+16047;216070821;Dolnoslaskie;Kobieta;36;3:Malzenstwo +1;94.2;1875.35;2;4
+16058;216071211;Dolnoslaskie;Mezczyzna;54;2:Malzenstwo bez dzieci;1183.52;1215.66;7;4
+16064;216080321;Dolnoslaskie;Kobieta;80;2:Malzenstwo bez dzieci;4461.61;4254.16;4;4
+16115;216091121;Dolnoslaskie;Kobieta;85;9:Pozostale;1484.82;2120.73;8;4
+16127;216100321;Dolnoslaskie;Kobieta;74;2:Malzenstwo bez dzieci;2232;1338.93;7;4
+16133;216100521;Dolnoslaskie;Kobieta;20;4:Malzenstwo +2;4076.73;3124.71;4;4
+16178;216111211;Dolnoslaskie;Kobieta;63;2:Malzenstwo bez dzieci;3896.9;3876.17;3;4
+16217;216121221;Dolnoslaskie;Kobieta;47;3:Malzenstwo +1;2500.24;2415.13;7;4
+16220;216130221;Dolnoslaskie;Mezczyzna;39;4:Malzenstwo +2;3300;3656.07;5;4
+16290;216150611;Dolnoslaskie;Mezczyzna;71;9:Pozostale;2470;1693.53;3;5
+16297;216150811;Dolnoslaskie;Mezczyzna;46;1:Osoba samotna;870;617.96;5;5
+16304;216151011;Dolnoslaskie;Mezczyzna;26;9:Pozostale;1519;1591.74;1;5
+16324;216160611;Dolnoslaskie;Kobieta;62;2:Malzenstwo bez dzieci;2080;1353.89;3;5
+16331;216160811;Dolnoslaskie;Kobieta;21;9:Pozostale;3190.5;1804.45;7;5
+16361;216171221;Dolnoslaskie;Mezczyzna;56;2:Malzenstwo bez dzieci;2262.2;1910.45;3;5
+16375;216180711;Dolnoslaskie;Mezczyzna;45;4:Malzenstwo +2;6081;5903.15;5;5
+16379;216180821;Dolnoslaskie;Kobieta;55;9:Pozostale;2522.9;5246.06;2;5
+16398;216190211;Dolnoslaskie;Kobieta;62;1:Osoba samotna;1190.15;1162.8;5;5
+16424;216191111;Dolnoslaskie;Kobieta;47;2:Malzenstwo bez dzieci;3117;1927.3;7;5
+16430;216191221;Dolnoslaskie;Mezczyzna;25;9:Pozostale;3650.6;1888.64;5;5
+16435;216200211;Dolnoslaskie;Kobieta;63;1:Osoba samotna;1420;1370.34;3;5
+16462;216200911;Dolnoslaskie;Kobieta;51;2:Malzenstwo bez dzieci;4111.05;2695.72;2;5
+16528;216221111;Dolnoslaskie;Mezczyzna;62;9:Pozostale;4760;4229.05;3;5
+16551;220010621;Zachodniopomorskie;Mezczyzna;36;4:Malzenstwo +2;3356.56;2142.27;5;6
+16555;220010711;Zachodniopomorskie;Mezczyzna;57;9:Pozostale;3775;1596.78;5;6
+16571;220020111;Zachodniopomorskie;Kobieta;53;2:Malzenstwo bez dzieci;3488;3489.66;4;6
+16572;220020121;Zachodniopomorskie;Mezczyzna;71;2:Malzenstwo bez dzieci;1466.05;1036.67;7;6
+16582;220020322;Zachodniopomorskie;Kobieta;28;3:Malzenstwo +1;2102.99;893.8;5;6
+16613;220030221;Zachodniopomorskie;Mezczyzna;37;5:Malzenstwo +3;2924;1674.68;5;6
+16636;220030721;Zachodniopomorskie;Kobieta;63;9:Pozostale;3183;1912.01;5;6
+16681;220040621;Zachodniopomorskie;Kobieta;20;3:Malzenstwo +1;2560;3306.94;4;6
+16769;220061111;Zachodniopomorskie;Mezczyzna;78;2:Malzenstwo bez dzieci;2457.12;2387.04;7;6
+16783;220070321;Zachodniopomorskie;Kobieta;72;9:Pozostale;1414.48;1297.88;7;6
+16786;220070411;Zachodniopomorskie;Kobieta;20;5:Malzenstwo +3;3100.6;2374.65;3;6
+16833;220081011;Zachodniopomorskie;Kobieta;35;6:Malzenstwo +4+;3717;3243.37;7;6
+16839;220081211;Zachodniopomorskie;Mezczyzna;44;5:Malzenstwo +3;1997.95;1514.53;7;6
+16864;220090611;Zachodniopomorskie;Mezczyzna;73;2:Malzenstwo bez dzieci;2556.2;2046.52;3;6
+16884;220091221;Zachodniopomorskie;Kobieta;74;2:Malzenstwo bez dzieci;2803.1;4460.21;3;6
+16912;220100811;Zachodniopomorskie;Mezczyzna;52;9:Pozostale;5380.35;4507.33;1;6
+16945;220110311;Zachodniopomorskie;Kobieta;41;3:Malzenstwo +1;692.59;2964.42;3;6
+16967;220110911;Zachodniopomorskie;Kobieta;40;3:Malzenstwo +1;857.1;2627.2;5;6
+16986;220120221;Zachodniopomorskie;Kobieta;61;9:Pozostale;2251;1858.47;7;6
+17006;220120821;Zachodniopomorskie;Mezczyzna;47;9:Pozostale;1877;1362.3;7;6
+17029;220130121;Wielkopolskie;Mezczyzna;24;9:Pozostale;2245.8;1488.92;5;6
+17078;220131111;Wielkopolskie;Kobieta;24;9:Pozostale;3134.4;818.48;1;6
+17100;220140311;Wielkopolskie;Kobieta;41;3:Malzenstwo +1;1914;1400.84;5;6
+17105;220140411;Wielkopolskie;Kobieta;70;9:Pozostale;4929.95;1769.3;7;6
+17123;220140811;Wielkopolskie;Kobieta;56;9:Pozostale;2356.64;1315.7;7;6
+17127;220140821;Wielkopolskie;Kobieta;43;9:Pozostale;2360.6;1522.67;5;6
+17133;220140921;Wielkopolskie;Kobieta;32;9:Pozostale;5937.7;2409.17;5;6
+17149;220150321;Wielkopolskie;Mezczyzna;54;9:Pozostale;1825.95;1100.89;5;6
+17155;220150421;Wielkopolskie;Kobieta;62;9:Pozostale;2985.86;1344.33;5;6
+17194;220160311;Wielkopolskie;Mezczyzna;28;5:Malzenstwo +3;3224;2689.34;4;6
+17226;220160921;Wielkopolskie;Mezczyzna;27;9:Pozostale;3496.24;1899.11;5;6
+17227;220160921;Wielkopolskie;Mezczyzna;25;9:Pozostale;3496.24;1899.11;7;6
+17238;220161121;Wielkopolskie;Mezczyzna;27;9:Pozostale;4969;3631.8;5;6
+17254;220170221;Wielkopolskie;Kobieta;54;9:Pozostale;4240.18;4956.48;7;6
+17267;220170421;Wielkopolskie;Kobieta;58;9:Pozostale;6468.93;2580.48;5;6
+17277;220170811;Wielkopolskie;Kobieta;39;4:Malzenstwo +2;19617;3531.02;1;6
+17283;220170921;Wielkopolskie;Kobieta;27;9:Pozostale;2233.58;1574.76;1;6
+17292;220171111;Wielkopolskie;Kobieta;41;9:Pozostale;6606.64;3266.46;8;6
+17311;220180321;Wielkopolskie;Kobieta;39;1:Osoba samotna;1381.5;1139.05;5;6
+17363;220190211;Wielkopolskie;Mezczyzna;25;3:Malzenstwo +1;3500;5368.27;1;6
+17387;220190621;Wielkopolskie;Mezczyzna;42;4:Malzenstwo +2;4300;3434.6;5;6
+17389;220190711;Wielkopolskie;Mezczyzna;56;9:Pozostale;2505;1997.64;5;6
+17401;220190921;Wielkopolskie;Kobieta;29;3:Malzenstwo +1;2763;2097.6;3;6
+17415;220191221;Wielkopolskie;Kobieta;34;9:Pozostale;4837.67;3370.91;5;6
+17417;220200111;Wielkopolskie;Kobieta;42;9:Pozostale;8700;4860.92;5;6
+17426;220200321;Wielkopolskie;Kobieta;41;9:Pozostale;13432.35;3855.59;3;6
+17444;220200721;Wielkopolskie;Mezczyzna;55;9:Pozostale;4878.48;2470.28;5;6
+17453;220200911;Wielkopolskie;Mezczyzna;56;9:Pozostale;4519.2;4973.12;7;6
+17461;220201021;Wielkopolskie;Mezczyzna;39;9:Pozostale;778.2;732;5;6
+17472;220201211;Wielkopolskie;Mezczyzna;22;9:Pozostale;8983;3193.95;3;6
+17473;220201211;Wielkopolskie;Mezczyzna;20;9:Pozostale;8983;3193.95;4;6
+17478;220210111;Wielkopolskie;Mezczyzna;39;9:Pozostale;1015.9;1560.03;7;6
+17485;220210221;Wielkopolskie;Mezczyzna;49;9:Pozostale;133.1;1143.42;5;6
+17512;220210921;Wielkopolskie;Mezczyzna;84;1:Osoba samotna;2476.95;1603.25;5;6
+17583;220221121;Wielkopolskie;Kobieta;40;9:Pozostale;6830.34;4095.67;4;6
+17588;220221221;Wielkopolskie;Mezczyzna;31;9:Pozostale;3207.04;3060.14;5;6
+17633;220231121;Wielkopolskie;Mezczyzna;58;2:Malzenstwo bez dzieci;1533;1273.78;5;6
+17655;220240411;Wielkopolskie;Mezczyzna;57;9:Pozostale;6504.2;3683.15;5;6
+17675;220240811;Wielkopolskie;Kobieta;39;4:Malzenstwo +2;2834;1876.98;3;6
+17681;220240921;Wielkopolskie;Mezczyzna;52;9:Pozostale;4566;3433.49;5;6
+17723;220250521;Wielkopolskie;Mezczyzna;39;5:Malzenstwo +3;8553.7;3448.88;5;6
+17726;220250611;Wielkopolskie;Mezczyzna;59;2:Malzenstwo bez dzieci;1605;946.44;7;6
+17727;220250621;Wielkopolskie;Mezczyzna;55;9:Pozostale;2045;1741.5;5;6
+17732;220250711;Wielkopolskie;Mezczyzna;22;9:Pozostale;4881;2190.21;3;6
+17734;220250721;Wielkopolskie;Kobieta;48;1:Osoba samotna;1406.6;1061.59;5;6
+17747;220250921;Wielkopolskie;Kobieta;20;9:Pozostale;2644.2;1398.22;4;6
+17748;220250921;Wielkopolskie;Mezczyzna;71;9:Pozostale;2644.2;1398.22;7;6
+17759;220251121;Wielkopolskie;Kobieta;53;9:Pozostale;4690;2650.24;7;6
+17765;220251221;Wielkopolskie;Kobieta;46;5:Malzenstwo +3;3058;2240.03;3;6
+17771;220260111;Wielkopolskie;Kobieta;23;9:Pozostale;5215;2295.03;3;6
+17808;220260911;Wielkopolskie;Mezczyzna;23;9:Pozostale;6531;2773.64;4;6
+17841;220270411;Wielkopolskie;Kobieta;24;9:Pozostale;3092;2524.59;3;6
+17853;220270721;Wielkopolskie;Mezczyzna;33;9:Pozostale;8546.3;6498.06;3;6
+17860;220270821;Wielkopolskie;Mezczyzna;26;9:Pozostale;5177.02;4235.52;5;6
+17879;220280111;Wielkopolskie;Kobieta;43;9:Pozostale;4796.45;2535.8;3;6
+17926;220281011;Wielkopolskie;Mezczyzna;66;9:Pozostale;5259.5;1768.53;7;6
+17927;220281011;Wielkopolskie;Kobieta;62;9:Pozostale;5259.5;1768.53;7;6
+17935;220281121;Wielkopolskie;Kobieta;81;9:Pozostale;1909;897.74;7;6
+17941;220281221;Wielkopolskie;Kobieta;54;9:Pozostale;7610.5;4389.17;5;6
+17946;220290121;Wielkopolskie;Mezczyzna;39;9:Pozostale;4116.6;2944.53;5;6
+17974;220290621;Wielkopolskie;Mezczyzna;58;9:Pozostale;4702;2677.51;5;6
+18039;220300811;Wielkopolskie;Mezczyzna;21;9:Pozostale;5218.49;2794.44;5;6
+18045;220300921;Wielkopolskie;Mezczyzna;51;9:Pozostale;5313.41;3390.13;4;6
+18100;220311111;Wielkopolskie;Kobieta;51;9:Pozostale;4115.31;3594.31;7;6
+18126;220320421;Wielkopolskie;Kobieta;42;9:Pozostale;5280;4712.95;5;6
+18130;220320521;Wielkopolskie;Kobieta;48;9:Pozostale;2656;1291.7;3;6
+18177;220330321;Wielkopolskie;Mezczyzna;68;9:Pozostale;2703;1668.25;7;6
+18182;220330411;Wielkopolskie;Kobieta;31;9:Pozostale;6832.1;6582.69;1;6
+18195;220330911;Wielkopolskie;Kobieta;51;9:Pozostale;3259.5;4571.64;4;6
+18209;220331021;Wielkopolskie;Mezczyzna;21;9:Pozostale;3216;4839.67;5;6
+18228;220340311;Wielkopolskie;Mezczyzna;88;9:Pozostale;4388.9;2755.43;7;6
+18289;220350521;Wielkopolskie;Mezczyzna;57;2:Malzenstwo bez dzieci;2200;1926.59;3;6
+18296;220350721;Wielkopolskie;Mezczyzna;36;4:Malzenstwo +2;3659.89;1782.57;3;6
+18325;220351212;Wielkopolskie;Mezczyzna;35;4:Malzenstwo +2;4314.52;6944.38;5;6
+18354;220360521;Wielkopolskie;Mezczyzna;34;4:Malzenstwo +2;3807.8;2373.56;5;6
+18356;220360611;Wielkopolskie;Mezczyzna;45;9:Pozostale;3556.4;3975.3;7;6
+18391;220370111;Wielkopolskie;Kobieta;58;4:Malzenstwo +2;1542.5;1994.84;4;6
+18409;220370511;Wielkopolskie;Kobieta;52;3:Malzenstwo +1;2020;2727.36;7;6
+18470;220380621;Wielkopolskie;Mezczyzna;40;3:Malzenstwo +1;941.5;830;7;6
+18471;220380621;Wielkopolskie;Kobieta;37;3:Malzenstwo +1;941.5;830;7;6
+18474;220380721;Wielkopolskie;Kobieta;84;1:Osoba samotna;987;1068.44;7;6
+18482;220380921;Wielkopolskie;Kobieta;77;1:Osoba samotna;937;881.55;7;6
+18505;220390221;Wielkopolskie;Mezczyzna;29;4:Malzenstwo +2;1626;1962.02;5;6
+18518;220390521;Wielkopolskie;Kobieta;53;2:Malzenstwo bez dzieci;1962;1729.58;5;6
+18546;220400111;Wielkopolskie;Mezczyzna;34;9:Pozostale;1186.82;952.69;5;6
+18556;220400321;Wielkopolskie;Kobieta;39;9:Pozostale;3128.28;1792.26;3;6
+18585;220400911;Wielkopolskie;Kobieta;20;9:Pozostale;6300;4387.33;4;6
+18638;220411021;Wielkopolskie;Kobieta;36;9:Pozostale;2516;1388.37;5;6
+18660;220420121;Wielkopolskie;Kobieta;40;9:Pozostale;8601.41;2526.48;3;6
+18670;220420421;Wielkopolskie;Kobieta;51;9:Pozostale;2564;2020.4;4;6
+18676;220420611;Wielkopolskie;Kobieta;38;4:Malzenstwo +2;3356.55;2959.14;4;6
+18678;220420621;Wielkopolskie;Kobieta;73;2:Malzenstwo bez dzieci;2804.5;2970.4;5;6
+18700;220421121;Wielkopolskie;Mezczyzna;30;1:Osoba samotna;1333.34;1258.61;4;6
+18703;220421211;Wielkopolskie;Kobieta;26;9:Pozostale;2317.61;3040.15;5;6
+18786;220440711;Warminsko-mazurskie;Kobieta;55;2:Malzenstwo bez dzieci;1850.64;1745.9;7;6
+18793;220440821;Warminsko-mazurskie;Kobieta;60;2:Malzenstwo bez dzieci;2228.16;2276.18;7;6
+18815;220450221;Warminsko-mazurskie;Mezczyzna;31;9:Pozostale;1263.4;851.91;7;6
+18842;220450912;Warminsko-mazurskie;Mezczyzna;52;6:Malzenstwo +4+;2772.82;2794.94;5;6
+18872;220460621;Warminsko-mazurskie;Kobieta;23;9:Pozostale;1304.13;1338;7;6
+18873;220460711;Warminsko-mazurskie;Kobieta;68;9:Pozostale;2679.27;1423.32;7;6
+18914;220470421;Warminsko-mazurskie;Kobieta;21;5:Malzenstwo +3;2801.1;1851.72;4;6
+18918;220470521;Warminsko-mazurskie;Kobieta;38;5:Malzenstwo +3;2455.68;1727.9;5;6
+18951;220480411;Warminsko-mazurskie;Kobieta;34;4:Malzenstwo +2;9531.2;3658.8;1;6
+18952;220480421;Warminsko-mazurskie;Mezczyzna;52;9:Pozostale;4671.8;3050.38;1;6
+18983;220490111;Warminsko-mazurskie;Kobieta;55;2:Malzenstwo bez dzieci;1579;1221.51;7;6
+18992;220490312;Warminsko-mazurskie;Kobieta;31;1:Osoba samotna;1025;550.91;3;6
+19000;220490511;Warminsko-mazurskie;Kobieta;69;1:Osoba samotna;1300;1462.29;7;6
+19016;220490911;Warminsko-mazurskie;Mezczyzna;47;3:Malzenstwo +1;2584.11;1781.83;5;6
+19019;220491011;Warminsko-mazurskie;Mezczyzna;59;1:Osoba samotna;925.21;354.45;7;6
+19023;220491111;Warminsko-mazurskie;Mezczyzna;38;5:Malzenstwo +3;6200.21;5025.75;3;6
+19050;220500421;Warminsko-mazurskie;Mezczyzna;46;1:Osoba samotna;1500;826.68;7;6
+19080;220501221;Warminsko-mazurskie;Mezczyzna;41;5:Malzenstwo +3;2452.6;2229.69;7;6
+19083;220510111;Warminsko-mazurskie;Kobieta;73;9:Pozostale;2830.67;2019.92;7;6
+19115;220520121;Warminsko-mazurskie;Mezczyzna;54;9:Pozostale;668;853.94;5;6
+19129;220520411;Warminsko-mazurskie;Kobieta;51;9:Pozostale;2899;937.1;5;6
+19133;220520412;Warminsko-mazurskie;Kobieta;30;4:Malzenstwo +2;2339.2;1358.95;4;6
+19138;220520521;Warminsko-mazurskie;Kobieta;73;1:Osoba samotna;835.25;386.34;7;6
+19139;220520522;Warminsko-mazurskie;Kobieta;47;5:Malzenstwo +3;2519.79;1859.72;3;6
+19173;220530321;Warminsko-mazurskie;Mezczyzna;38;5:Malzenstwo +3;2857;3425.12;5;6
+19185;220530811;Warminsko-mazurskie;Kobieta;32;7:Matka i dzieci;2000;1479.12;5;6
+19244;220550111;Warminsko-mazurskie;Mezczyzna;47;3:Malzenstwo +1;1373.33;1051.22;7;6
+19252;220550221;Warminsko-mazurskie;Kobieta;75;9:Pozostale;30300.21;3275.13;7;6
+19257;220550311;Warminsko-mazurskie;Kobieta;34;9:Pozostale;1909;2277.22;7;6
+19267;220550521;Warminsko-mazurskie;Kobieta;36;5:Malzenstwo +3;2456;2290.17;5;6
+19314;220560421;Swietokrzyskie;Kobieta;66;9:Pozostale;545.8;2403.4;7;6
+19318;220560521;Swietokrzyskie;Kobieta;41;9:Pozostale;6122;1740;5;6
+19320;220560611;Swietokrzyskie;Mezczyzna;55;9:Pozostale;2754;1910.4;5;6
+19330;220560721;Swietokrzyskie;Mezczyzna;25;9:Pozostale;2982.65;2696.56;3;6
+19340;220560911;Swietokrzyskie;Mezczyzna;27;9:Pozostale;4867.8;2145.31;5;6
+19349;220561121;Swietokrzyskie;Kobieta;65;9:Pozostale;3066.92;4142.9;7;6
+19360;220570311;Swietokrzyskie;Kobieta;74;2:Malzenstwo bez dzieci;1378;1038.48;7;6
+19388;220570811;Swietokrzyskie;Mezczyzna;53;9:Pozostale;484.32;1664.15;5;6
+19414;220571221;Swietokrzyskie;Kobieta;71;2:Malzenstwo bez dzieci;1867.61;2513.82;7;6
+19439;220580621;Swietokrzyskie;Mezczyzna;44;2:Malzenstwo bez dzieci;1200;1406.4;5;6
+19454;220581111;Swietokrzyskie;Kobieta;65;9:Pozostale;2138.1;1447.2;7;6
+19479;220590421;Swietokrzyskie;Kobieta;44;4:Malzenstwo +2;2535.4;2215.2;7;6
+19482;220590511;Swietokrzyskie;Mezczyzna;60;9:Pozostale;3913.95;2156.76;7;6
+19484;220590521;Swietokrzyskie;Mezczyzna;41;4:Malzenstwo +2;979;1165.28;5;6
+19495;220590911;Swietokrzyskie;Kobieta;64;2:Malzenstwo bez dzieci;1527;1757.08;7;6
+19499;220591112;Swietokrzyskie;Mezczyzna;73;9:Pozostale;1961;1294.13;7;6
+19514;220600121;Swietokrzyskie;Mezczyzna;31;9:Pozostale;1097;577.7;5;6
+19525;220600421;Swietokrzyskie;Mezczyzna;47;1:Osoba samotna;2762;988.8;7;6
+19533;220600621;Swietokrzyskie;Kobieta;43;4:Malzenstwo +2;15185;1361.45;5;6
+19540;220600722;Swietokrzyskie;Kobieta;36;3:Malzenstwo +1;6435.87;2123.53;7;6
+19543;220600723;Swietokrzyskie;Kobieta;25;4:Malzenstwo +2;5011;2205.06;1;6
+19559;220601211;Swietokrzyskie;Mezczyzna;59;9:Pozostale;2272;1025.5;7;6
+19573;220610221;Swietokrzyskie;Kobieta;36;4:Malzenstwo +2;1463.3;1191.29;5;6
+19575;220610311;Swietokrzyskie;Mezczyzna;33;4:Malzenstwo +2;4517.5;2256.92;5;6
+19580;220610411;Swietokrzyskie;Kobieta;44;3:Malzenstwo +1;1717;1252.92;4;6
+19611;220611121;Swietokrzyskie;Kobieta;31;4:Malzenstwo +2;2896;2227.67;5;6
+19712;220640221;Swietokrzyskie;Kobieta;53;9:Pozostale;2660;2131.07;5;6
+19721;220640411;Swietokrzyskie;Kobieta;54;1:Osoba samotna;546.09;637.33;7;6
+19736;220640721;Swietokrzyskie;Kobieta;72;1:Osoba samotna;984;1197.45;7;6
+19746;220641011;Swietokrzyskie;Mezczyzna;48;9:Pozostale;4268;5465.03;5;6
+19758;220641221;Swietokrzyskie;Mezczyzna;22;9:Pozostale;2520.6;2621.69;3;6
+19799;220651221;Swietokrzyskie;Kobieta;29;4:Malzenstwo +2;2302.9;1768.17;7;6
+19836;220660921;Swietokrzyskie;Mezczyzna;65;9:Pozostale;1168;1359.35;7;6
+19867;220670311;Swietokrzyskie;Kobieta;28;9:Pozostale;4830.5;3176.95;3;6
+19934;220680321;Swietokrzyskie;Mezczyzna;59;2:Malzenstwo bez dzieci;2794.2;2051.62;5;6
+19944;220680721;Swietokrzyskie;Mezczyzna;60;9:Pozostale;1677.1;1018.17;5;6
+19973;220690211;Swietokrzyskie;Kobieta;50;4:Malzenstwo +2;554;755.41;7;6
+20025;220700421;Swietokrzyskie;Mezczyzna;41;9:Pozostale;3489.5;1595.74;5;6
+20069;220710611;Slaskie;Kobieta;58;9:Pozostale;4332;924.54;5;6
+20078;220710711;Slaskie;Kobieta;52;9:Pozostale;4100;2159.98;3;6
+20099;220711111;Slaskie;Mezczyzna;27;9:Pozostale;1753;1011.42;5;6
+20103;220711121;Slaskie;Kobieta;28;9:Pozostale;6530;2246.04;5;6
+20136;220720611;Slaskie;Kobieta;23;9:Pozostale;4179;4508.96;3;6
+20177;220730421;Slaskie;Kobieta;59;9:Pozostale;3014.6;3567.99;5;6
+20184;220730621;Slaskie;Kobieta;64;1:Osoba samotna;1113.8;4040.04;1;6
+20203;220731111;Slaskie;Kobieta;67;9:Pozostale;2181.8;1628.13;7;6
+20238;220740721;Slaskie;Mezczyzna;44;3:Malzenstwo +1;3500;2811.69;5;6
+20272;220750221;Slaskie;Mezczyzna;49;9:Pozostale;2426.5;1750.91;3;6
+20299;220750811;Slaskie;Mezczyzna;53;1:Osoba samotna;498.5;369.04;5;6
+20311;220751021;Slaskie;Kobieta;58;2:Malzenstwo bez dzieci;1912;965.44;5;6
+20318;220760111;Slaskie;Mezczyzna;62;1:Osoba samotna;750;1755.15;5;6
+20322;220760211;Slaskie;Mezczyzna;51;2:Malzenstwo bez dzieci;1420;1328.45;5;6
+20424;220780221;Slaskie;Kobieta;50;2:Malzenstwo bez dzieci;4200;3311.74;2;6
+20429;220780511;Slaskie;Mezczyzna;43;3:Malzenstwo +1;3900.89;2223.51;3;6
+20435;220780811;Slaskie;Mezczyzna;59;2:Malzenstwo bez dzieci;1803;835.95;3;6
+20466;220790421;Slaskie;Mezczyzna;22;9:Pozostale;1200;1296.94;4;6
+20509;220800521;Slaskie;Kobieta;46;9:Pozostale;3800;1573.24;3;6
+20560;220810821;Slaskie;Mezczyzna;55;2:Malzenstwo bez dzieci;3300;2043.66;5;6
+20588;220820411;Slaskie;Kobieta;39;2:Malzenstwo bez dzieci;4450;4651.89;1;6
+20601;220820721;Slaskie;Kobieta;22;9:Pozostale;3850.92;4402.59;3;6
+20610;220821011;Slaskie;Kobieta;57;2:Malzenstwo bez dzieci;4783;2730.69;4;6
+20695;220850111;Slaskie;Mezczyzna;44;4:Malzenstwo +2;2326.67;1905.72;7;6
+20726;220851121;Slaskie;Kobieta;27;9:Pozostale;1894.03;1253.99;5;6
+20729;220851221;Slaskie;Mezczyzna;21;9:Pozostale;11575;3591.33;5;6
+20756;220860911;Slaskie;Kobieta;71;9:Pozostale;2608;1357.76;5;6
+20799;220870721;Slaskie;Kobieta;51;2:Malzenstwo bez dzieci;1867;1514.21;7;6
+20828;220880321;Slaskie;Mezczyzna;34;9:Pozostale;3200;2324.25;3;6
+20867;220890321;Slaskie;Kobieta;44;3:Malzenstwo +1;2500;1815.05;3;6
+20886;220890821;Slaskie;Mezczyzna;31;3:Malzenstwo +1;2500;1797.85;5;6
+20887;220890821;Slaskie;Kobieta;28;3:Malzenstwo +1;2500;1797.85;5;6
+20895;220891011;Slaskie;Kobieta;22;9:Pozostale;4173.33;2843.32;4;6
+20911;220900321;Slaskie;Kobieta;46;2:Malzenstwo bez dzieci;1910;1753.54;5;6
+20937;220901111;Slaskie;Kobieta;40;9:Pozostale;4091;2088.85;3;6
+20954;220910321;Slaskie;Mezczyzna;45;5:Malzenstwo +3;4900;5543.19;5;6
+20966;220910611;Slaskie;Kobieta;33;9:Pozostale;4330;3853.3;3;6
+20983;220910911;Slaskie;Mezczyzna;20;9:Pozostale;4400;3724.51;5;6
+21004;220920221;Slaskie;Mezczyzna;52;9:Pozostale;2587;2606.18;5;6
+21013;220920421;Slaskie;Kobieta;42;9:Pozostale;4739;3427.49;3;6
+21024;220920721;Slaskie;Mezczyzna;34;9:Pozostale;2835;2390.72;5;6
+21028;220920821;Slaskie;Mezczyzna;63;2:Malzenstwo bez dzieci;2991;2754;5;6
+21042;220930111;Slaskie;Kobieta;30;9:Pozostale;3659.5;3438.28;5;6
+21051;220930311;Slaskie;Mezczyzna;81;2:Malzenstwo bez dzieci;2161.06;1902.8;7;6
+21055;220930411;Slaskie;Mezczyzna;47;3:Malzenstwo +1;3788;4290.79;3;6
+21075;220931011;Slaskie;Mezczyzna;65;2:Malzenstwo bez dzieci;2066;2476.07;5;6
+21088;220940211;Pomorskie;Kobieta;37;6:Malzenstwo +4+;12200;2680.52;5;6
+21125;220940921;Pomorskie;Mezczyzna;26;9:Pozostale;5574;4235.5;5;6
+21141;220941221;Pomorskie;Kobieta;21;9:Pozostale;4808.95;5162.6;4;6
+21281;220971021;Pomorskie;Kobieta;49;7:Matka i dzieci;1177.13;2064.92;7;6
+21284;220971211;Pomorskie;Mezczyzna;20;9:Pozostale;5963;6465.09;6;6
+21288;220980121;Pomorskie;Mezczyzna;33;5:Malzenstwo +3;3260.94;2759.67;5;6
+21309;220981011;Pomorskie;Mezczyzna;37;4:Malzenstwo +2;4811;4340.28;1;6
+21327;220990321;Pomorskie;Mezczyzna;34;9:Pozostale;3903.8;5319.67;5;6
+21342;220990811;Pomorskie;Kobieta;34;7:Matka i dzieci;1516.8;1066.42;5;6
+21362;220991222;Pomorskie;Mezczyzna;35;3:Malzenstwo +1;3218;972.64;5;6
+21402;221001021;Pomorskie;Kobieta;27;3:Malzenstwo +1;4604.5;3459.19;1;6
+21410;221001221;Pomorskie;Kobieta;49;4:Malzenstwo +2;3211.29;2508.86;7;6
+21423;221010311;Pomorskie;Mezczyzna;62;9:Pozostale;2567.4;2577.29;3;6
+21431;221010511;Pomorskie;Mezczyzna;48;6:Malzenstwo +4+;2114;1084.33;5;6
+21452;221011021;Pomorskie;Kobieta;56;2:Malzenstwo bez dzieci;3257.1;4012.77;3;6
+21471;221020411;Pomorskie;Kobieta;77;1:Osoba samotna;1201.56;692.66;7;6
+21494;221020911;Pomorskie;Kobieta;52;9:Pozostale;3826;2691.61;7;6
+21497;221020921;Pomorskie;Kobieta;62;1:Osoba samotna;843.16;1406.51;7;6
+21505;221021211;Pomorskie;Mezczyzna;22;9:Pozostale;3000;2033.35;3;6
+21522;221030511;Pomorskie;Mezczyzna;52;3:Malzenstwo +1;3314;1975.77;5;6
+21534;221030812;Pomorskie;Kobieta;28;3:Malzenstwo +1;3901;1923.61;3;6
+21554;221040321;Pomorskie;Kobieta;32;4:Malzenstwo +2;3090.3;1169.67;1;6
+21579;221040921;Pomorskie;Mezczyzna;45;4:Malzenstwo +2;9234;4847.37;5;6
+21625;221050821;Pomorskie;Mezczyzna;52;9:Pozostale;2797.5;1527.27;7;6
+21636;221051111;Pomorskie;Mezczyzna;47;9:Pozostale;3604.58;2702.3;3;6
+21684;221061011;Pomorskie;Mezczyzna;34;9:Pozostale;5935.92;4682.21;3;6
+21694;221061121;Pomorskie;Mezczyzna;38;4:Malzenstwo +2;5238.18;2275.69;3;6
+21730;221071011;Pomorskie;Kobieta;47;9:Pozostale;2424.1;3044.19;7;6
+21742;221080111;Pomorskie;Mezczyzna;58;9:Pozostale;637.5;5337.1;5;6
+21750;221080221;Pomorskie;Mezczyzna;50;5:Malzenstwo +3;4919.51;3721.12;1;6
+21785;221080922;Pomorskie;Kobieta;36;5:Malzenstwo +3;3004.19;4138.73;5;6
+21815;221090421;Podlaskie;Kobieta;70;9:Pozostale;3762.07;1834.46;7;6
+21847;221091121;Podlaskie;Mezczyzna;47;3:Malzenstwo +1;5668;3806.5;3;6
+21851;221091211;Podlaskie;Mezczyzna;79;9:Pozostale;1811.33;1954.39;7;6
+21862;221100411;Podlaskie;Mezczyzna;47;3:Malzenstwo +1;5145.44;6060.3;5;6
+21871;221100521;Podlaskie;Kobieta;21;9:Pozostale;3408.28;3156.04;4;6
+21884;221100911;Podlaskie;Mezczyzna;58;2:Malzenstwo bez dzieci;2649.98;1886.47;5;6
+21887;221100921;Podlaskie;Kobieta;24;9:Pozostale;5141.5;4503.35;1;6
+21904;221110211;Podlaskie;Mezczyzna;36;9:Pozostale;2210.97;1821.32;5;6
+21908;221110411;Podlaskie;Mezczyzna;39;4:Malzenstwo +2;6556.17;5298.83;1;6
+21916;221110721;Podlaskie;Kobieta;36;2:Malzenstwo bez dzieci;1277;1206.7;7;6
+21929;221111121;Podlaskie;Mezczyzna;83;2:Malzenstwo bez dzieci;1860.53;800.48;7;6
+21943;221120321;Podlaskie;Kobieta;77;2:Malzenstwo bez dzieci;3508;786.03;7;6
+21978;221121221;Podlaskie;Kobieta;65;2:Malzenstwo bez dzieci;1268;1096.11;7;6
+22018;221130911;Podlaskie;Kobieta;42;9:Pozostale;6727;3673.53;4;6
+22048;221140211;Podlaskie;Kobieta;48;9:Pozostale;7138.75;2698.14;5;6
+22052;221140221;Podlaskie;Kobieta;35;9:Pozostale;5318.9;3633.89;2;6
+22087;221140921;Podlaskie;Kobieta;48;4:Malzenstwo +2;1747.16;1868.06;7;6
+22107;221150221;Podlaskie;Kobieta;32;3:Malzenstwo +1;4610.61;2756.32;4;6
+22121;221150611;Podlaskie;Mezczyzna;76;2:Malzenstwo bez dzieci;1406.21;424.04;7;6
+22144;221151221;Podlaskie;Kobieta;47;9:Pozostale;6457.55;3552.45;5;6
+22157;221160421;Podlaskie;Kobieta;58;1:Osoba samotna;954.2;974.87;5;6
+22159;221160521;Podlaskie;Mezczyzna;33;9:Pozostale;2288.7;1188.06;7;6
+22171;221160911;Podlaskie;Kobieta;75;1:Osoba samotna;712.91;547.61;7;6
+22197;221170511;Podlaskie;Mezczyzna;48;9:Pozostale;3185;2116.5;3;6
+22221;221170921;Podlaskie;Kobieta;52;9:Pozostale;1245;883.05;7;6
+22250;221180511;Podlaskie;Kobieta;54;9:Pozostale;2727.9;1497.5;5;6
+22267;221180911;Podlaskie;Kobieta;82;9:Pozostale;1297.1;991.97;7;6
+22273;221181011;Podlaskie;Kobieta;53;9:Pozostale;864.15;4946.3;5;6
+22274;221181011;Podlaskie;Kobieta;79;9:Pozostale;864.15;4946.3;7;6
+22275;221181021;Podlaskie;Mezczyzna;32;9:Pozostale;4178.7;4044.05;7;6
+22278;221181211;Podlaskie;Mezczyzna;43;9:Pozostale;8848.6;2649.21;5;6
+22287;221190211;Podlaskie;Mezczyzna;45;9:Pozostale;9436.72;3908.26;5;6
+22321;221191011;Podlaskie;Kobieta;20;4:Malzenstwo +2;7361.6;4111.77;4;6
+22332;221191121;Podlaskie;Kobieta;21;6:Malzenstwo +4+;5339.6;3067.86;4;6
+22358;221200521;Podlaskie;Kobieta;77;1:Osoba samotna;1046.21;698.09;7;6
+22371;221200811;Podlaskie;Mezczyzna;50;9:Pozostale;3418;1361.53;5;6
+22384;221201211;Podlaskie;Mezczyzna;46;5:Malzenstwo +3;4846.67;6465.12;3;6
+22402;221210321;Podkarpackie;Kobieta;45;6:Malzenstwo +4+;1827.5;1741.41;7;6
+22416;221210521;Podkarpackie;Mezczyzna;26;9:Pozostale;2604.5;1975.71;5;6
+22443;221211211;Podkarpackie;Kobieta;59;3:Malzenstwo +1;3031;3539.33;3;6
+22542;221230921;Podkarpackie;Kobieta;82;9:Pozostale;15486.3;7301.2;7;6
+22544;221231011;Podkarpackie;Kobieta;58;9:Pozostale;3945.71;3658.54;7;6
+22577;221240421;Podkarpackie;Kobieta;31;9:Pozostale;2709.13;2559.28;5;6
+22581;221240611;Podkarpackie;Kobieta;52;9:Pozostale;2019.84;1930.82;7;6
+22609;221241211;Podkarpackie;Mezczyzna;36;9:Pozostale;1187.73;1115.17;7;6
+22611;221241221;Podkarpackie;Kobieta;45;5:Malzenstwo +3;3046.92;3025.8;3;6
+22624;221250321;Podkarpackie;Kobieta;78;9:Pozostale;1799.31;1620.56;7;6
+22639;221250711;Podkarpackie;Mezczyzna;32;4:Malzenstwo +2;2364.57;2013.64;5;6
+22684;221260411;Podkarpackie;Mezczyzna;54;2:Malzenstwo bez dzieci;3072.5;3649.14;3;6
+22717;221261221;Podkarpackie;Kobieta;68;9:Pozostale;4302;3405.63;5;6
+22734;221270621;Podkarpackie;Kobieta;74;9:Pozostale;3696.11;3997.93;4;6
+22742;221270811;Podkarpackie;Kobieta;79;9:Pozostale;4170.71;3714.12;7;6
+22797;221280711;Podkarpackie;Mezczyzna;31;3:Malzenstwo +1;1632;1111.7;5;6
+22802;221280721;Podkarpackie;Kobieta;41;9:Pozostale;2764.5;2700.62;5;6
+22874;221291021;Podkarpackie;Kobieta;55;2:Malzenstwo bez dzieci;840.6;812.7;7;6
+22884;221300121;Podkarpackie;Mezczyzna;33;9:Pozostale;5383.69;3394.1;1;6
+22897;221300311;Podkarpackie;Kobieta;55;9:Pozostale;4240.26;1982.45;3;6
+22919;221300711;Podkarpackie;Kobieta;30;9:Pozostale;2259.44;2126.53;8;6
+22945;221310211;Podkarpackie;Mezczyzna;57;9:Pozostale;4669.9;3002.13;3;6
+22948;221310211;Podkarpackie;Mezczyzna;32;9:Pozostale;4669.9;3002.13;5;6
+22970;221310811;Podkarpackie;Kobieta;28;9:Pozostale;2753.8;1979.95;3;6
+22978;221310921;Podkarpackie;Mezczyzna;52;9:Pozostale;351;12873.93;3;6
+22983;221310921;Podkarpackie;Kobieta;20;9:Pozostale;351;12873.93;6;6
+22984;221311011;Podkarpackie;Mezczyzna;58;9:Pozostale;1876.5;1708.09;5;6
+23016;221320321;Podkarpackie;Kobieta;52;9:Pozostale;2134.7;2300.29;5;6
+23019;221320421;Podkarpackie;Mezczyzna;46;9:Pozostale;1378;1651.44;5;6
+23042;221320921;Podkarpackie;Kobieta;31;9:Pozostale;5028.72;4909.63;5;6
+23059;221321221;Podkarpackie;Mezczyzna;47;9:Pozostale;4307.99;4062.6;5;6
+23124;221340311;Podkarpackie;Kobieta;21;9:Pozostale;2001;1919.64;4;6
+23144;221340811;Podkarpackie;Mezczyzna;37;4:Malzenstwo +2;2066.86;2301.92;1;6
+23150;221340911;Podkarpackie;Kobieta;26;9:Pozostale;7434.93;4134.17;1;6
+23163;221341211;Podkarpackie;Mezczyzna;25;9:Pozostale;1916;1993.22;1;6
+23177;221350411;Podkarpackie;Mezczyzna;21;9:Pozostale;2279.22;1876.58;4;6
+23184;221350511;Podkarpackie;Mezczyzna;82;9:Pozostale;1797.14;1651;7;6
+23185;221350611;Podkarpackie;Mezczyzna;58;9:Pozostale;3353.1;2250.02;7;6
+23202;221350821;Podkarpackie;Mezczyzna;26;9:Pozostale;4008.3;2254.53;7;6
+23204;221350821;Podkarpackie;Kobieta;22;9:Pozostale;4008.3;2254.53;7;6
+23227;221360111;Podkarpackie;Kobieta;32;9:Pozostale;2668.1;3822.15;2;6
+23256;221360711;Podkarpackie;Kobieta;25;4:Malzenstwo +2;2333;1969.31;5;6
+23296;221370421;Podkarpackie;Kobieta;44;4:Malzenstwo +2;1318;1000.21;5;6
+23325;221371111;Podkarpackie;Mezczyzna;54;9:Pozostale;3483.17;2639.31;5;6
+23378;221380911;Podkarpackie;Mezczyzna;55;9:Pozostale;1260.5;1377.62;5;6
+23388;221381211;Podkarpackie;Mezczyzna;45;4:Malzenstwo +2;1985.46;2143.64;5;6
+23431;221390921;Podkarpackie;Mezczyzna;51;3:Malzenstwo +1;1500;1851.18;3;6
+23438;221391111;Podkarpackie;Kobieta;48;9:Pozostale;5143;3565.56;3;6
+23444;221391121;Podkarpackie;Mezczyzna;88;2:Malzenstwo bez dzieci;1891.64;838.78;5;6
+23490;221401021;Podkarpackie;Mezczyzna;86;9:Pozostale;8003.52;5846.42;7;6
+23509;221410322;Podkarpackie;Mezczyzna;43;9:Pozostale;3256.82;2324.61;7;6
+23534;221410921;Podkarpackie;Kobieta;62;1:Osoba samotna;1413.5;1277.26;3;6
+23543;221411121;Podkarpackie;Kobieta;26;9:Pozostale;4289.4;4695.89;4;6
+23546;221411121;Podkarpackie;Kobieta;35;9:Pozostale;4289.4;4695.89;1;6
+23548;221411211;Podkarpackie;Kobieta;50;9:Pozostale;6834.1;4758.75;5;6
+23551;221411211;Podkarpackie;Kobieta;28;9:Pozostale;6834.1;4758.75;5;6
+23569;221420321;Podkarpackie;Mezczyzna;47;9:Pozostale;1135.38;2624.92;3;6
+23573;221420411;Podkarpackie;Kobieta;78;9:Pozostale;1339.81;1424.75;7;6
+23645;221430711;Podkarpackie;Kobieta;26;9:Pozostale;2227.88;1724;3;6
+23773;221451211;Podkarpackie;Kobieta;78;1:Osoba samotna;736;1200.06;7;6
+23793;221460521;Podkarpackie;Kobieta;55;9:Pozostale;1261.85;3111.49;5;6
+23796;221460621;Podkarpackie;Mezczyzna;50;3:Malzenstwo +1;1618.01;1431.95;5;6
+23816;221461021;Podkarpackie;Mezczyzna;53;9:Pozostale;2624.52;2381.04;7;6
+23833;221470211;Opolskie;Kobieta;47;9:Pozostale;1506.5;1897.74;3;6
+23850;221470711;Opolskie;Kobieta;37;4:Malzenstwo +2;4852.82;2001.73;3;6
+23864;221471111;Opolskie;Mezczyzna;37;3:Malzenstwo +1;27712.8;15993.39;2;6
+23933;221490321;Opolskie;Mezczyzna;25;9:Pozostale;5429;3758.28;5;6
+23934;221490421;Opolskie;Kobieta;26;9:Pozostale;3808.01;2251.71;3;6
+23939;221490511;Opolskie;Kobieta;28;9:Pozostale;2158;949.07;5;6
+24063;221520211;Opolskie;Mezczyzna;30;9:Pozostale;2361.59;1539.25;3;6
+24064;221520211;Opolskie;Kobieta;27;9:Pozostale;2361.59;1539.25;5;6
+24072;221520421;Opolskie;Mezczyzna;31;9:Pozostale;3695.38;2455.36;5;6
+24103;221530111;Opolskie;Mezczyzna;65;2:Malzenstwo bez dzieci;2549.87;2439.8;7;6
+24106;221530121;Opolskie;Kobieta;52;3:Malzenstwo +1;1351.76;1951.24;3;6
+24111;221530221;Opolskie;Mezczyzna;20;3:Malzenstwo +1;5228.35;1770.67;3;6
+24120;221530511;Opolskie;Kobieta;57;9:Pozostale;1939.54;1100.84;7;6
+24141;221531021;Opolskie;Kobieta;82;9:Pozostale;3656.2;3689.78;7;6
+24168;221541211;Opolskie;Mezczyzna;46;3:Malzenstwo +1;2106.5;1501.62;5;6
+24177;221550311;Opolskie;Mezczyzna;30;3:Malzenstwo +1;1739.2;1947.49;5;6
+24188;221550621;Opolskie;Kobieta;76;9:Pozostale;3933.31;5621.46;7;6
+24214;221560111;Opolskie;Kobieta;53;9:Pozostale;3785.68;3067.81;7;6
+24230;221560811;Opolskie;Mezczyzna;51;2:Malzenstwo bez dzieci;2577;2094.97;5;6
+24293;221571211;Opolskie;Kobieta;29;9:Pozostale;7986.45;9020.8;1;6
+24303;221580211;Mazowieckie;Mezczyzna;21;9:Pozostale;4249.7;1347.68;6;6
+24310;221580411;Mazowieckie;Mezczyzna;40;4:Malzenstwo +2;1090;1092.4;3;6
+24315;221580511;Mazowieckie;Kobieta;78;1:Osoba samotna;1388.2;1040.41;7;6
+24317;221580521;Mazowieckie;Kobieta;43;9:Pozostale;3124.53;2803.23;5;6
+24326;221580621;Mazowieckie;Kobieta;63;9:Pozostale;9853.2;8969.13;7;6
+24333;221580721;Mazowieckie;Mezczyzna;26;9:Pozostale;2263.95;1878.01;5;6
+24353;221581211;Mazowieckie;Kobieta;47;2:Malzenstwo bez dzieci;4231.72;1660.01;7;6
+24372;221591021;Mazowieckie;Mezczyzna;20;9:Pozostale;3520.71;5807.23;6;6
+24379;221600211;Mazowieckie;Mezczyzna;45;3:Malzenstwo +1;1557;1885.7;5;6
+24390;221600811;Mazowieckie;Mezczyzna;33;9:Pozostale;1317.2;1362.1;5;6
+24391;221601021;Mazowieckie;Mezczyzna;41;4:Malzenstwo +2;1440.2;950.39;5;6
+24404;221610521;Mazowieckie;Kobieta;51;9:Pozostale;6769.97;4202.1;5;6
+24412;221610721;Mazowieckie;Mezczyzna;29;9:Pozostale;3068.07;2399.27;2;6
+24433;221620221;Mazowieckie;Mezczyzna;53;9:Pozostale;2467;1661.35;7;6
+24466;221621211;Mazowieckie;Mezczyzna;20;7:Matka i dzieci;1244;2292.71;3;6
+24528;221640411;Mazowieckie;Mezczyzna;64;2:Malzenstwo bez dzieci;2029;1887.2;7;6
+24531;221640421;Mazowieckie;Kobieta;38;9:Pozostale;2501.86;2329.16;5;6
+24595;221650621;Mazowieckie;Kobieta;54;4:Malzenstwo +2;767;592.6;7;6
+24667;221670221;Mazowieckie;Mezczyzna;58;9:Pozostale;10870.63;8522.11;5;6
+24776;221690611;Mazowieckie;Kobieta;37;9:Pozostale;3838.5;4629.69;5;6
+24788;221690811;Mazowieckie;Kobieta;78;1:Osoba samotna;1169.59;1063.14;7;6
+24858;221700911;Mazowieckie;Kobieta;25;5:Malzenstwo +3;3051.07;1519.81;7;6
+24888;221710721;Mazowieckie;Kobieta;27;3:Malzenstwo +1;6400;5186.6;1;6
+25013;221740411;Mazowieckie;Mezczyzna;82;2:Malzenstwo bez dzieci;2277.96;878.92;7;6
+25045;221750121;Mazowieckie;Kobieta;42;9:Pozostale;2556;2085.1;5;6
+25049;221750211;Mazowieckie;Mezczyzna;23;9:Pozostale;1090.45;3131.55;3;6
+25083;221750711;Mazowieckie;Mezczyzna;73;2:Malzenstwo bez dzieci;1363.78;1711.65;7;6
+25087;221750911;Mazowieckie;Mezczyzna;52;9:Pozostale;2520.3;1774.54;5;6
+25091;221750921;Mazowieckie;Mezczyzna;45;9:Pozostale;604.3;800.24;5;6
+25096;221751111;Mazowieckie;Mezczyzna;36;9:Pozostale;4115.33;1647;5;6
+25119;221760721;Mazowieckie;Kobieta;49;2:Malzenstwo bez dzieci;3500;3723.78;3;6
+25121;221760811;Mazowieckie;Mezczyzna;68;2:Malzenstwo bez dzieci;4514.4;3018.37;4;6
+25154;221770621;Mazowieckie;Kobieta;76;2:Malzenstwo bez dzieci;2553;2759.52;7;6
+25177;221780111;Mazowieckie;Mezczyzna;23;9:Pozostale;2936;2487.89;3;6
+25185;221780311;Mazowieckie;Mezczyzna;42;5:Malzenstwo +3;16269.54;3738.43;3;6
+25234;221790411;Mazowieckie;Mezczyzna;31;4:Malzenstwo +2;6679.65;12807.14;3;6
+25244;221790611;Mazowieckie;Kobieta;36;4:Malzenstwo +2;3686.15;4486.44;5;6
+25270;221801111;Mazowieckie;Mezczyzna;69;2:Malzenstwo bez dzieci;3690;5784.6;3;6
+25271;221801211;Mazowieckie;Mezczyzna;61;2:Malzenstwo bez dzieci;2434.57;1651.95;3;6
+25278;221810121;Mazowieckie;Mezczyzna;41;9:Pozostale;5001.81;3124.1;5;6
+25287;221810421;Mazowieckie;Kobieta;70;1:Osoba samotna;2732.65;2043.58;1;6
+25288;221810511;Mazowieckie;Kobieta;26;3:Malzenstwo +1;1328.5;1571.08;3;6
+25294;221810611;Mazowieckie;Mezczyzna;74;2:Malzenstwo bez dzieci;1384;1372.28;7;6
+25315;221811111;Mazowieckie;Mezczyzna;32;9:Pozostale;8193.03;5785.92;5;6
+25325;221820111;Mazowieckie;Mezczyzna;74;9:Pozostale;386.28;3070.12;8;6
+25332;221820121;Mazowieckie;Kobieta;79;9:Pozostale;2868.9;3155.45;8;6
+25337;221820321;Mazowieckie;Mezczyzna;85;2:Malzenstwo bez dzieci;1506.7;1593.44;7;6
+25370;221821121;Mazowieckie;Kobieta;61;2:Malzenstwo bez dzieci;1713.96;1917.52;7;6
+25377;221830111;Mazowieckie;Kobieta;73;2:Malzenstwo bez dzieci;1660.84;2194.87;7;6
+25426;221831121;Mazowieckie;Mezczyzna;68;2:Malzenstwo bez dzieci;1918.28;1351.11;7;6
+25447;221840711;Mazowieckie;Kobieta;37;4:Malzenstwo +2;4182.5;5415.58;5;6
+25472;221850211;Mazowieckie;Kobieta;66;1:Osoba samotna;833.77;912.58;3;6
+25478;221850411;Mazowieckie;Kobieta;48;2:Malzenstwo bez dzieci;7471.6;5093.51;3;6
+25493;221850811;Mazowieckie;Mezczyzna;26;9:Pozostale;3248;5661.17;5;6
+25503;221851121;Mazowieckie;Kobieta;44;9:Pozostale;5957.49;6342.12;3;6
+25550;221861221;Mazowieckie;Kobieta;34;3:Malzenstwo +1;4200.07;2239.12;3;6
+25680;221890821;Mazowieckie;Kobieta;35;9:Pozostale;3951.59;3814.88;4;6
+25708;221900211;Mazowieckie;Kobieta;22;9:Pozostale;4944;4618.22;3;6
+25769;221910521;Mazowieckie;Kobieta;29;9:Pozostale;3827.65;2335.53;1;6
+25802;221920311;Mazowieckie;Kobieta;58;9:Pozostale;8628;4557.11;2;6
+25806;221920321;Mazowieckie;Kobieta;50;9:Pozostale;1439.04;1770.82;3;6
+25809;221920421;Mazowieckie;Mezczyzna;58;2:Malzenstwo bez dzieci;1700;1692.36;5;6
+25812;221920521;Mazowieckie;Mezczyzna;68;1:Osoba samotna;795;961.29;5;6
+25858;221930611;Mazowieckie;Mezczyzna;47;9:Pozostale;1482.98;1945.84;5;6
+25878;221931111;Mazowieckie;Kobieta;33;4:Malzenstwo +2;11591.68;3580.8;5;6
+25881;221931121;Mazowieckie;Mezczyzna;24;9:Pozostale;2528.9;1631.55;7;6
+25937;221950311;Mazowieckie;Kobieta;42;9:Pozostale;2345.05;2630.6;3;6
+25938;221950311;Mazowieckie;Mezczyzna;48;9:Pozostale;2345.05;2630.6;5;6
+25944;221950411;Mazowieckie;Mezczyzna;26;9:Pozostale;3795.58;2886.03;5;6
+25945;221950421;Mazowieckie;Mezczyzna;50;9:Pozostale;2174.5;2276.03;5;6
+25951;221950611;Mazowieckie;Kobieta;89;1:Osoba samotna;1117;986.79;8;6
+25955;221950721;Mazowieckie;Mezczyzna;78;2:Malzenstwo bez dzieci;2169;1383.38;7;6
+26010;221960911;Mazowieckie;Kobieta;49;2:Malzenstwo bez dzieci;4108.5;3015.35;2;6
+26019;221961111;Mazowieckie;Mezczyzna;40;4:Malzenstwo +2;3087.5;2208.17;5;6
+26034;221970311;Mazowieckie;Kobieta;57;2:Malzenstwo bez dzieci;1745.2;2540.09;7;6
+26071;221971111;Mazowieckie;Kobieta;57;9:Pozostale;2953.31;2875.94;3;6
+26081;221980121;Mazowieckie;Kobieta;43;6:Malzenstwo +4+;1670;1330.67;7;6
+26133;221990111;Mazowieckie;Mezczyzna;23;9:Pozostale;5851.05;2401.19;3;6
+26168;221991011;Mazowieckie;Mezczyzna;49;9:Pozostale;854.5;1655.19;5;6
+26177;221991211;Mazowieckie;Mezczyzna;51;9:Pozostale;4455.4;4427.46;5;6
+26188;222000211;Malopolskie;Kobieta;54;9:Pozostale;1717;1536.66;7;6
+26204;222000511;Malopolskie;Kobieta;76;9:Pozostale;2899.1;1078.82;7;6
+26213;222000621;Malopolskie;Kobieta;62;2:Malzenstwo bez dzieci;1774.6;933.1;7;6
+26249;222010211;Malopolskie;Kobieta;73;9:Pozostale;1354.9;1315.81;5;6
+26291;222011221;Malopolskie;Kobieta;69;2:Malzenstwo bez dzieci;1790.2;1549.27;5;6
+26292;222020111;Malopolskie;Kobieta;44;5:Malzenstwo +3;6775.84;6035.26;4;6
+26324;222020721;Malopolskie;Mezczyzna;33;9:Pozostale;5424;2447.47;3;6
+26338;222021111;Malopolskie;Mezczyzna;88;9:Pozostale;1783.5;1525.68;7;6
+26351;222030121;Malopolskie;Kobieta;53;9:Pozostale;4920.81;3260.45;5;6
+26364;222030411;Malopolskie;Mezczyzna;72;2:Malzenstwo bez dzieci;1697.7;3202.78;7;6
+26399;222031021;Malopolskie;Mezczyzna;20;4:Malzenstwo +2;3704.15;7162.84;3;6
+26439;222040621;Malopolskie;Kobieta;32;9:Pozostale;2505.6;5641.93;1;6
+26451;222040911;Malopolskie;Kobieta;54;9:Pozostale;2565;3287.14;7;6
+26453;222040911;Malopolskie;Mezczyzna;34;9:Pozostale;2565;3287.14;5;6
+26461;222041111;Malopolskie;Kobieta;56;9:Pozostale;3628.57;5811.11;5;6
+26481;222050321;Malopolskie;Kobieta;28;3:Malzenstwo +1;3600;2029.5;1;6
+26517;222060211;Malopolskie;Kobieta;58;2:Malzenstwo bez dzieci;3039;2532.31;1;6
+26554;222061011;Malopolskie;Mezczyzna;39;4:Malzenstwo +2;6562.34;5374.59;3;6
+26555;222061011;Malopolskie;Kobieta;37;4:Malzenstwo +2;6562.34;5374.59;3;6
+26571;222070311;Malopolskie;Kobieta;20;9:Pozostale;2970.8;2121.79;5;6
+26575;222070411;Malopolskie;Kobieta;58;9:Pozostale;2593;1462.4;5;6
+26623;222080211;Malopolskie;Mezczyzna;35;9:Pozostale;2810;2250.76;2;6
+26646;222081121;Malopolskie;Mezczyzna;46;2:Malzenstwo bez dzieci;2200;1494.42;5;6
+26655;222090211;Malopolskie;Mezczyzna;53;9:Pozostale;3851.97;2683.26;7;6
+26684;222090811;Malopolskie;Kobieta;45;4:Malzenstwo +2;2598.5;2153.11;3;6
+26693;222091011;Malopolskie;Kobieta;22;9:Pozostale;4270;3154.34;4;6
+26698;222091021;Malopolskie;Kobieta;25;9:Pozostale;6772;1860.36;1;6
+26721;222100421;Malopolskie;Kobieta;32;9:Pozostale;5220;4700.18;1;6
+26744;222101021;Malopolskie;Kobieta;62;9:Pozostale;3974.84;5701.09;7;6
+26752;222110111;Malopolskie;Kobieta;36;3:Malzenstwo +1;2772;1523;5;6
+26779;222110611;Malopolskie;Kobieta;41;3:Malzenstwo +1;3700;1873.42;3;6
+26801;222111011;Malopolskie;Mezczyzna;28;9:Pozostale;4638.1;2455.94;5;6
+26816;222120221;Malopolskie;Kobieta;58;3:Malzenstwo +1;1510.5;1489.63;7;6
+26817;222120311;Malopolskie;Kobieta;86;1:Osoba samotna;939.3;938.82;8;6
+26828;222120521;Malopolskie;Kobieta;31;9:Pozostale;2362.34;2469.82;8;6
+26838;222120721;Malopolskie;Mezczyzna;49;9:Pozostale;4272;2860.12;3;6
+26843;222120821;Malopolskie;Kobieta;79;9:Pozostale;2981.72;2922.9;8;6
+26869;222130121;Malopolskie;Kobieta;28;9:Pozostale;3338;3828.1;5;6
+26875;222130321;Malopolskie;Mezczyzna;35;4:Malzenstwo +2;3011.33;3346.13;5;6
+26878;222130411;Malopolskie;Kobieta;28;4:Malzenstwo +2;2100.9;2687.28;4;6
+26882;222130511;Malopolskie;Mezczyzna;55;5:Malzenstwo +3;2082;1926.43;5;6
+26883;222130521;Malopolskie;Mezczyzna;48;4:Malzenstwo +2;2147.5;1295.06;7;6
+26944;222140611;Malopolskie;Mezczyzna;46;9:Pozostale;4700;3698.83;5;6
+26948;222140621;Malopolskie;Kobieta;70;9:Pozostale;2158;1449.03;4;6
+26974;222141211;Malopolskie;Kobieta;36;3:Malzenstwo +1;3100;3051.09;5;6
+26992;222150411;Malopolskie;Mezczyzna;52;3:Malzenstwo +1;3162.75;2690.25;5;6
+26998;222150511;Malopolskie;Kobieta;40;5:Malzenstwo +3;3200;2421.05;3;6
+27006;222150711;Malopolskie;Mezczyzna;24;5:Malzenstwo +3;3000;2865.73;4;6
+27029;222160111;Malopolskie;Kobieta;54;2:Malzenstwo bez dzieci;1863;1308.78;5;6
+27057;222160521;Malopolskie;Kobieta;23;9:Pozostale;8250.7;4190.52;1;6
+27060;222160621;Malopolskie;Mezczyzna;47;4:Malzenstwo +2;3743.5;1863.66;5;6
+27079;222161111;Malopolskie;Mezczyzna;50;6:Malzenstwo +4+;2946;1932.81;7;6
+27091;222170311;Malopolskie;Mezczyzna;57;9:Pozostale;3759.48;2161.23;5;6
+27100;222170511;Malopolskie;Kobieta;37;5:Malzenstwo +3;3469;2824.01;5;6
+27108;222170711;Malopolskie;Kobieta;47;3:Malzenstwo +1;4070;3378.02;1;6
+27152;222180421;Malopolskie;Kobieta;42;5:Malzenstwo +3;2773.2;2641.26;5;6
+27165;222180721;Malopolskie;Mezczyzna;28;9:Pozostale;4496.35;4214.89;3;6
+27195;222190421;Malopolskie;Kobieta;73;9:Pozostale;2540.94;1761.7;5;6
+27239;222200221;Malopolskie;Mezczyzna;36;4:Malzenstwo +2;1343.4;1175.41;5;6
+27326;222210621;Malopolskie;Mezczyzna;79;1:Osoba samotna;985;671.88;7;6
+27338;222211021;Malopolskie;Mezczyzna;58;2:Malzenstwo bez dzieci;695.27;984.65;7;6
+27369;222220721;Malopolskie;Kobieta;57;9:Pozostale;3769.55;2241.71;7;6
+27382;222221121;Malopolskie;Kobieta;51;9:Pozostale;2174.05;1612.19;3;6
+27395;222230211;Malopolskie;Mezczyzna;26;2:Malzenstwo bez dzieci;2078;2034.97;1;6
+27453;222240221;Malopolskie;Kobieta;58;2:Malzenstwo bez dzieci;1068.02;1502.35;5;6
+27474;222240711;Malopolskie;Kobieta;53;9:Pozostale;3371.4;3146.81;5;6
+27494;222241111;Malopolskie;Mezczyzna;21;9:Pozostale;2802.55;3321.82;3;6
+27532;222250611;Malopolskie;Kobieta;51;3:Malzenstwo +1;2660.85;2379.13;5;6
+27538;222250711;Malopolskie;Mezczyzna;57;9:Pozostale;7441.5;4997.5;5;6
+27576;222251211;Malopolskie;Kobieta;46;4:Malzenstwo +2;2206.34;2535.73;3;6
+27587;222260321;Malopolskie;Kobieta;76;2:Malzenstwo bez dzieci;1876.72;2746.17;7;6
+27606;222261221;Malopolskie;Kobieta;82;9:Pozostale;5575.7;4370.87;7;6
+27607;222261221;Malopolskie;Kobieta;46;9:Pozostale;5575.7;4370.87;8;6
+27677;222280421;Malopolskie;Kobieta;43;9:Pozostale;2821;1854.53;5;6
+27708;222290211;Malopolskie;Mezczyzna;31;9:Pozostale;5130;2787.41;5;6
+27799;222301211;Malopolskie;Kobieta;76;9:Pozostale;904.81;741.05;7;6
+27800;222301211;Malopolskie;Mezczyzna;51;9:Pozostale;904.81;741.05;3;6
+27821;222311221;Malopolskie;Kobieta;54;9:Pozostale;4880;2754.99;3;6
+27826;222320111;Malopolskie;Mezczyzna;36;9:Pozostale;3300;1814.22;2;6
+27882;222330621;Lodzkie;Mezczyzna;32;9:Pozostale;1484.73;1500.43;5;6
+27885;222330811;Lodzkie;Mezczyzna;57;9:Pozostale;2055.83;3603.15;5;6
+27933;222340721;Lodzkie;Mezczyzna;21;9:Pozostale;5617.25;5043.83;4;6
+27939;222340911;Lodzkie;Mezczyzna;83;1:Osoba samotna;815.49;850.2;7;6
+27958;222350211;Lodzkie;Mezczyzna;30;9:Pozostale;594.4;4033.32;3;6
+27971;222350511;Lodzkie;Kobieta;65;2:Malzenstwo bez dzieci;975.33;556.11;7;6
+28043;222361021;Lodzkie;Kobieta;51;9:Pozostale;4979.32;3480.22;2;6
+28045;222361021;Lodzkie;Kobieta;23;9:Pozostale;4979.32;3480.22;4;6
+28052;222361211;Lodzkie;Kobieta;56;9:Pozostale;2875.99;1545.77;4;6
+28074;222370721;Lodzkie;Kobieta;46;2:Malzenstwo bez dzieci;15180;11474.83;1;6
+28087;222371221;Lodzkie;Mezczyzna;25;9:Pozostale;2738.7;2645.5;2;6
+28166;222390611;Lodzkie;Kobieta;49;9:Pozostale;2700.5;3577.17;1;6
+28227;222400821;Lodzkie;Kobieta;24;6:Malzenstwo +4+;2278;2669.94;3;6
+28229;222400911;Lodzkie;Mezczyzna;33;5:Malzenstwo +3;2554.2;1404.4;7;6
+28257;222410421;Lodzkie;Kobieta;40;9:Pozostale;2375.26;1794.51;7;6
+28264;222410521;Lodzkie;Kobieta;51;9:Pozostale;2089.8;2030.27;5;6
+28283;222411011;Lodzkie;Kobieta;28;9:Pozostale;4425.14;2965.13;1;6
+28373;222421221;Lodzkie;Kobieta;48;9:Pozostale;4348.6;3141.8;7;6
+28386;222430211;Lodzkie;Mezczyzna;71;9:Pozostale;5909.92;3868.08;7;6
+28437;222431021;Lodzkie;Kobieta;68;9:Pozostale;2582.6;2692.29;7;6
+28447;222431221;Lodzkie;Mezczyzna;76;2:Malzenstwo bez dzieci;3499.83;2956.54;3;6
+28466;222440521;Lodzkie;Mezczyzna;34;9:Pozostale;2484;2330.12;5;6
+28483;222440811;Lodzkie;Mezczyzna;39;9:Pozostale;2799;2366.01;7;6
+28495;222441021;Lodzkie;Kobieta;60;1:Osoba samotna;2070;2433.68;1;6
+28503;222441221;Lodzkie;Mezczyzna;48;9:Pozostale;2100;1765.29;5;6
+28545;222450811;Lodzkie;Mezczyzna;49;6:Malzenstwo +4+;7156.5;8424.72;5;6
+28641;222470711;Lodzkie;Kobieta;45;9:Pozostale;4646.11;3448.73;5;6
+28648;222470921;Lodzkie;Kobieta;75;9:Pozostale;2798.3;1788.87;7;6
+28681;222480421;Lodzkie;Kobieta;70;9:Pozostale;2148.65;1830.66;7;6
+28762;222490921;Lodzkie;Kobieta;47;9:Pozostale;3558.9;3459.27;5;6
+28776;222500111;Lodzkie;Kobieta;30;9:Pozostale;7461.9;1470.51;2;6
+28782;222500221;Lodzkie;Mezczyzna;53;1:Osoba samotna;693;917.57;7;6
+28785;222500411;Lodzkie;Mezczyzna;55;9:Pozostale;3875;2826.78;7;6
+28823;222510111;Lodzkie;Mezczyzna;39;9:Pozostale;2135;2251.21;5;6
+28835;222510311;Lodzkie;Kobieta;40;3:Malzenstwo +1;3702;3321.09;5;6
+28838;222510321;Lodzkie;Kobieta;42;5:Malzenstwo +3;1851.65;2354.82;3;6
+28888;222520621;Lodzkie;Mezczyzna;59;2:Malzenstwo bez dzieci;2940;4973.92;3;6
+28892;222520911;Lodzkie;Mezczyzna;30;3:Malzenstwo +1;3260;3557.08;3;6
+28937;222530611;Lodzkie;Kobieta;21;9:Pozostale;7890.1;4675.64;6;6
+28968;222531211;Lodzkie;Kobieta;36;4:Malzenstwo +2;2876.28;3441.86;5;6
+29021;222541121;Lubuskie;Mezczyzna;32;2:Malzenstwo bez dzieci;3870;1531.09;5;6
+29022;222541121;Lubuskie;Kobieta;22;2:Malzenstwo bez dzieci;3870;1531.09;5;6
+29050;222550611;Lubuskie;Mezczyzna;25;9:Pozostale;2096.91;1253.2;5;6
+29084;222560221;Lubuskie;Mezczyzna;22;9:Pozostale;1821;1734.08;3;6
+29119;222570111;Lubuskie;Kobieta;29;9:Pozostale;3872.36;2517.48;3;6
+29134;222570511;Lubuskie;Mezczyzna;90;2:Malzenstwo bez dzieci;1997.18;1283.96;3;6
+29136;222570521;Lubuskie;Kobieta;62;2:Malzenstwo bez dzieci;2168.13;2053.49;3;6
+29151;222570811;Lubuskie;Kobieta;52;2:Malzenstwo bez dzieci;1934.56;2356.04;5;6
+29166;222571121;Lubuskie;Kobieta;86;9:Pozostale;4355.61;2220.27;7;6
+29177;222580121;Lubuskie;Kobieta;41;9:Pozostale;3673.8;3207.17;1;6
+29193;222580611;Lubuskie;Mezczyzna;24;9:Pozostale;2567;1723.27;3;6
+29227;222590221;Lubuskie;Kobieta;70;1:Osoba samotna;1900;1422.06;1;6
+29284;222600611;Lubuskie;Kobieta;38;5:Malzenstwo +3;2131;2286.12;5;6
+29290;222600721;Lubuskie;Kobieta;49;9:Pozostale;3079.12;3045.28;5;6
+29298;222601011;Lubuskie;Mezczyzna;67;2:Malzenstwo bez dzieci;1306.7;1421.17;7;6
+29310;222601221;Lubuskie;Kobieta;41;9:Pozostale;3845.65;4465;5;6
+29332;222610611;Lubuskie;Kobieta;81;9:Pozostale;2830.99;8384.77;5;6
+29337;222610711;Lubuskie;Mezczyzna;24;3:Malzenstwo +1;1433;1468.52;5;6
+29342;222610911;Lubuskie;Kobieta;51;9:Pozostale;2559.1;4949.83;7;6
+29347;222611121;Lubuskie;Mezczyzna;25;4:Malzenstwo +2;2900;2848.04;3;6
+29351;222611221;Lubuskie;Kobieta;30;1:Osoba samotna;489;800.13;7;6
+29377;222620711;Lubuskie;Mezczyzna;23;9:Pozostale;2400;1428.28;5;6
+29468;222640621;Lubelskie;Mezczyzna;63;2:Malzenstwo bez dzieci;2136;1295.87;4;6
+29475;222640811;Lubelskie;Kobieta;53;9:Pozostale;6953.59;2841.07;5;6
+29477;222640811;Lubelskie;Mezczyzna;32;9:Pozostale;6953.59;2841.07;5;6
+29481;222641011;Lubelskie;Kobieta;64;9:Pozostale;1663.27;1427.07;7;6
+29528;222650821;Lubelskie;Kobieta;48;3:Malzenstwo +1;3747.52;4289.51;2;6
+29536;222651011;Lubelskie;Mezczyzna;70;9:Pozostale;3252.2;3177.18;5;6
+29573;222660611;Lubelskie;Kobieta;35;4:Malzenstwo +2;2864.39;2155.68;3;6
+29582;222660811;Lubelskie;Kobieta;53;9:Pozostale;5007.6;7472.25;5;6
+29667;222680511;Lubelskie;Kobieta;47;9:Pozostale;1945.9;834.8;7;6
+29676;222680711;Lubelskie;Kobieta;51;4:Malzenstwo +2;1659;1767.14;5;6
+29677;222680711;Lubelskie;Mezczyzna;47;4:Malzenstwo +2;1659;1767.14;7;6
+29685;222680921;Lubelskie;Mezczyzna;25;9:Pozostale;2447.14;1841.35;7;6
+29713;222690511;Lubelskie;Kobieta;21;9:Pozostale;4690.59;1892.33;4;6
+29734;222690921;Lubelskie;Mezczyzna;51;2:Malzenstwo bez dzieci;2197.55;2736.29;3;6
+29736;222691021;Lubelskie;Kobieta;71;9:Pozostale;2222.24;2004.22;7;6
+29751;222700211;Lubelskie;Kobieta;63;2:Malzenstwo bez dzieci;1340.8;1302.36;7;6
+29846;222710821;Lubelskie;Kobieta;30;9:Pozostale;4219.5;2079.84;1;6
+29848;222710911;Lubelskie;Mezczyzna;59;9:Pozostale;1619;1651.75;7;6
+29886;222721111;Lubelskie;Kobieta;26;2:Malzenstwo bez dzieci;3583.33;2516.03;3;6
+29898;222730221;Lubelskie;Kobieta;52;2:Malzenstwo bez dzieci;961.63;1057.95;7;6
+29942;222740111;Lubelskie;Kobieta;83;1:Osoba samotna;3490.7;2220.77;7;6
+29943;222740121;Lubelskie;Mezczyzna;49;2:Malzenstwo bez dzieci;1163.81;1122.15;5;6
+29980;222741121;Lubelskie;Mezczyzna;50;9:Pozostale;2479.35;1879.11;7;6
+29988;222750121;Lubelskie;Kobieta;55;9:Pozostale;1663.91;1143.43;5;6
+30043;222760721;Lubelskie;Mezczyzna;58;2:Malzenstwo bez dzieci;1173.15;1319.47;5;6
+30061;222761213;Lubelskie;Kobieta;40;3:Malzenstwo +1;6984.75;2469.25;3;6
+30065;222761221;Lubelskie;Mezczyzna;20;4:Malzenstwo +2;2057.1;1960.5;3;6
+30176;222791111;Lubelskie;Kobieta;70;9:Pozostale;3025.4;5161.66;7;6
+30186;222800121;Lubelskie;Mezczyzna;36;9:Pozostale;3880.18;4365.24;3;6
+30190;222800221;Lubelskie;Mezczyzna;75;9:Pozostale;2184.78;2616.16;5;6
+30193;222800311;Lubelskie;Mezczyzna;69;2:Malzenstwo bez dzieci;1326.1;838.23;7;6
+30291;222820311;Lubelskie;Mezczyzna;56;9:Pozostale;3852.2;3778.62;7;6
+30312;222820721;Lubelskie;Kobieta;83;9:Pozostale;2460.4;2165.54;7;6
+30341;222830221;Lubelskie;Kobieta;47;9:Pozostale;2562.47;1789.32;5;6
+30359;222830721;Lubelskie;Kobieta;43;3:Malzenstwo +1;1154.4;2127.8;5;6
+30370;222831021;Lubelskie;Mezczyzna;29;9:Pozostale;3464.34;2588.02;3;6
+30374;222831211;Lubelskie;Mezczyzna;46;9:Pozostale;1536.55;2015.19;5;6
+30392;222840511;Lubelskie;Mezczyzna;55;9:Pozostale;1436;1423.6;4;6
+30405;222840811;Lubelskie;Kobieta;57;1:Osoba samotna;1355.5;942.87;3;6
+30411;222840821;Lubelskie;Kobieta;86;9:Pozostale;2009.5;2045.19;8;6
+30413;222840911;Lubelskie;Kobieta;58;9:Pozostale;4983.9;4764.31;5;6
+30430;222841211;Lubelskie;Mezczyzna;80;2:Malzenstwo bez dzieci;1348.78;3175.55;8;6
+30456;222850621;Lubelskie;Mezczyzna;57;9:Pozostale;1753.9;1714.43;7;6
+30463;222850721;Lubelskie;Kobieta;69;2:Malzenstwo bez dzieci;1410.1;1204.2;7;6
+30468;222850821;Lubelskie;Kobieta;82;2:Malzenstwo bez dzieci;2187;1069.56;7;6
+30490;222860311;Lubelskie;Mezczyzna;66;9:Pozostale;1571;3097.3;7;6
+30493;222860322;Lubelskie;Mezczyzna;66;2:Malzenstwo bez dzieci;2142.5;1334.29;7;6
+30578;222880411;Lubelskie;Mezczyzna;81;2:Malzenstwo bez dzieci;1742.57;1404.88;8;6
+30584;222880511;Lubelskie;Kobieta;54;9:Pozostale;1699;1243.4;7;6
+30602;222880911;Lubelskie;Kobieta;64;2:Malzenstwo bez dzieci;1274.6;885.1;7;6
+30630;222890321;Lubelskie;Mezczyzna;64;9:Pozostale;1221.33;2909.87;7;6
+30643;222890521;Lubelskie;Mezczyzna;59;2:Malzenstwo bez dzieci;287.95;1699.05;7;6
+30665;222891121;Lubelskie;Mezczyzna;38;4:Malzenstwo +2;1989.3;2544.67;5;6
+30685;222900511;Kujawsko-pomorskie;Mezczyzna;75;9:Pozostale;2672.84;4700.17;3;6
+30695;222900711;Kujawsko-pomorskie;Kobieta;21;9:Pozostale;4006;1732.17;3;6
+30703;222901021;Kujawsko-pomorskie;Mezczyzna;49;9:Pozostale;7163;2650.14;3;6
+30705;222901021;Kujawsko-pomorskie;Mezczyzna;73;9:Pozostale;7163;2650.14;7;6
+30746;222911211;Kujawsko-pomorskie;Mezczyzna;24;9:Pozostale;3303.51;2846.6;7;6
+30756;222920421;Kujawsko-pomorskie;Mezczyzna;62;9:Pozostale;960;717.19;5;6
+30768;222920711;Kujawsko-pomorskie;Kobieta;58;2:Malzenstwo bez dzieci;3400;2240.58;7;6
+30774;222920921;Kujawsko-pomorskie;Kobieta;60;9:Pozostale;32523.4;12251.5;1;6
+30779;222921111;Kujawsko-pomorskie;Mezczyzna;54;9:Pozostale;2700;2306.53;3;6
+30787;222930121;Kujawsko-pomorskie;Mezczyzna;32;6:Malzenstwo +4+;1900;1075.36;5;6
+30793;222930311;Kujawsko-pomorskie;Kobieta;59;9:Pozostale;4274.77;3485.09;3;6
+30813;222930821;Kujawsko-pomorskie;Mezczyzna;80;2:Malzenstwo bez dzieci;1637;2095.78;7;6
+30830;222940111;Kujawsko-pomorskie;Kobieta;72;2:Malzenstwo bez dzieci;2631;2732.74;1;6
+30849;222940621;Kujawsko-pomorskie;Kobieta;35;9:Pozostale;1300.19;1831.1;5;6
+30924;222960411;Kujawsko-pomorskie;Mezczyzna;57;2:Malzenstwo bez dzieci;1030.06;918.13;5;6
+30999;222971021;Kujawsko-pomorskie;Mezczyzna;62;1:Osoba samotna;179.2;921.25;5;6
+31021;222980321;Kujawsko-pomorskie;Kobieta;34;9:Pozostale;12813.55;6180.88;5;6
+31032;222980511;Kujawsko-pomorskie;Kobieta;54;9:Pozostale;2596.62;2417.88;3;6
+31053;222981121;Kujawsko-pomorskie;Kobieta;50;2:Malzenstwo bez dzieci;1961.48;1727.13;3;6
+31067;222990311;Kujawsko-pomorskie;Mezczyzna;24;9:Pozostale;2439;1760.16;5;6
+31111;222991121;Kujawsko-pomorskie;Mezczyzna;50;9:Pozostale;6291.36;2707.57;5;6
+31149;223000711;Kujawsko-pomorskie;Kobieta;74;9:Pozostale;20658.34;1854.8;7;6
+31151;223000811;Kujawsko-pomorskie;Mezczyzna;60;2:Malzenstwo bez dzieci;1345.97;1739.97;7;6
+31193;223010711;Kujawsko-pomorskie;Mezczyzna;32;9:Pozostale;3950.1;4079;5;6
+31204;223010911;Kujawsko-pomorskie;Kobieta;42;7:Matka i dzieci;2000.2;2242.26;1;6
+31253;223020911;Kujawsko-pomorskie;Kobieta;51;9:Pozostale;34900.4;2587.74;7;6
+31281;223030111;Kujawsko-pomorskie;Mezczyzna;22;9:Pozostale;1714.45;1737.37;5;6
+31293;223030421;Kujawsko-pomorskie;Mezczyzna;35;3:Malzenstwo +1;8350;2940.5;1;6
+31352;223040621;Kujawsko-pomorskie;Kobieta;52;9:Pozostale;3792.68;2051.39;3;6
+31354;223040721;Kujawsko-pomorskie;Kobieta;68;2:Malzenstwo bez dzieci;1505.8;1122.51;7;6
+31405;223051111;Kujawsko-pomorskie;Mezczyzna;38;9:Pozostale;3400.25;1617.25;5;6
+31412;223060111;Kujawsko-pomorskie;Kobieta;24;4:Malzenstwo +2;1019.2;1734.44;5;6
+31434;223060611;Kujawsko-pomorskie;Mezczyzna;71;1:Osoba samotna;1150;1568.22;3;6
+31490;223070721;Dolnoslaskie;Kobieta;42;4:Malzenstwo +2;5835;6002.25;3;6
+31536;223080511;Dolnoslaskie;Mezczyzna;29;9:Pozostale;4971.89;1083.55;1;6
+31569;223090211;Dolnoslaskie;Mezczyzna;69;9:Pozostale;2992.93;2434.28;5;6
+31576;223090511;Dolnoslaskie;Mezczyzna;35;4:Malzenstwo +2;3000;3191.81;3;6
+31623;223100821;Dolnoslaskie;Mezczyzna;64;2:Malzenstwo bez dzieci;4772.23;1728.44;5;6
+31682;223111021;Dolnoslaskie;Kobieta;37;3:Malzenstwo +1;1249.5;918.03;5;6
+31686;223111111;Dolnoslaskie;Kobieta;64;9:Pozostale;3798.7;2102.76;7;6
+31688;223111121;Dolnoslaskie;Kobieta;57;9:Pozostale;2776;1675.72;5;6
+31726;223120811;Dolnoslaskie;Kobieta;34;9:Pozostale;2408;1480.27;7;6
+31772;223130711;Dolnoslaskie;Kobieta;22;9:Pozostale;2960;2918.8;3;6
+31848;223150221;Dolnoslaskie;Kobieta;47;9:Pozostale;3731.5;2298.13;3;6
+31858;223150511;Dolnoslaskie;Mezczyzna;47;2:Malzenstwo bez dzieci;5112.82;6473.82;1;6
+31862;223150711;Dolnoslaskie;Mezczyzna;51;1:Osoba samotna;1500;3080.49;7;6
+31899;223160721;Dolnoslaskie;Kobieta;54;9:Pozostale;1900;1455.07;3;6
+31921;223170111;Dolnoslaskie;Kobieta;52;1:Osoba samotna;830.2;745.62;1;6
+31933;223170511;Dolnoslaskie;Mezczyzna;47;3:Malzenstwo +1;2870.43;1363.96;3;6
+31949;223171011;Dolnoslaskie;Mezczyzna;44;4:Malzenstwo +2;2400.98;2113.29;5;6
+31959;223180121;Dolnoslaskie;Mezczyzna;76;2:Malzenstwo bez dzieci;2518.8;1295.62;7;6
+31996;223181211;Dolnoslaskie;Kobieta;33;3:Malzenstwo +1;2564.74;2389.44;1;6
+32094;223220521;Dolnoslaskie;Mezczyzna;80;9:Pozostale;3343;1917.68;7;6
+32141;223230621;Dolnoslaskie;Mezczyzna;46;9:Pozostale;3991.8;1972.86;5;6
+32145;223230621;Dolnoslaskie;Kobieta;73;9:Pozostale;3991.8;1972.86;5;6
+32148;223230721;Dolnoslaskie;Kobieta;72;2:Malzenstwo bez dzieci;2124.2;4479.57;3;6
+32214;223250121;Dolnoslaskie;Kobieta;52;9:Pozostale;3162;2230.89;5;6
+32249;223251011;Dolnoslaskie;Mezczyzna;78;2:Malzenstwo bez dzieci;1645.5;1078.75;7;6
+32278;223260421;Dolnoslaskie;Kobieta;20;5:Malzenstwo +3;1671;3115.1;6;6
