@@ -1,4 +1,5 @@
 *Adam Korczynski, 14-02-2025, adaptive logistic regression with AUC and Gini;
+*Data from: https://archive.ics.uci.edu/dataset/94/spambase;
 
 
 *[1] Start CAS session and assign user libarary CASUSER to the session;
