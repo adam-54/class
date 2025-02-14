@@ -237,11 +237,11 @@ quit;
 data _null_;
  set w01;
  if ^missing(auc) then do;
-    call symputx("AUC_train",round(auc,0.001));
-    call symputx("AUC_test",round(auc_test,0.001));
+    call symputx("AUC_train",round(auc,0.00001));
+    call symputx("AUC_test",round(auc_test,0.00001));
 
-    call symputx("gini_train",round(gini,0.001));
-    call symputx("gini_test",round(gini_test,0.001));
+    call symputx("gini_train",round(gini,0.00001));
+    call symputx("gini_test",round(gini_test,0.00001));
  end;
 run;
 
